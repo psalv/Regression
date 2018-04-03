@@ -1,1001 +1,1001 @@
-person_id	origin	age	gender	education	degree	language	job_level	current_role	hired
-6479044607	Asia	12	Male	High school	STEM	C	Student	Student	No
-6479823768	Asia	12	Male	High school	Other	C	Student	Student	No
-6486823740	Asia	12	Male	High school	Other	C	Student	Student	No
-6463291274	Canada	12	Male	High school	STEM	Python	Student	Student	No
-6484838839	Asia	13	Male	High school	STEM	C	Student	Student	No
-6474436454	Asia	14	Male	High school	Other	C	Student	Student	No
-6486983764	Asia	14	Male	High school	STEM	C	Student	Student	No
-6463737178	United States	14	Male	High school	Computer Science	Python	Student	Student	No
-6477367099	Africa	14	Male	High school	Other	Python	Student	Student	No
-6478314347	Europe	14	Male	High school	STEM	Python	Student	Student	No
-6478562121	Europe	14	Female	High school	Other	Python	Student	Student	No
-6462185355	Europe	14	Male	High school	Other	SQL	Student	Student	No
-6463006411	Europe	15	Male	High school	STEM	C	Student	Student	No
-6463987451	United States	15	Male	High school	Other	C	Student	Student	No
-6464468832	Asia	15	Male	High school	STEM	C	Student	Student	No
-6465904675	United States	15	Male	High school	Computer Science	C	Student	Student	No
-6474347983	Asia	15	Female	High school	Computer Science	C	Student	Student	No
-6478890755	Asia	15	Female	High school	STEM	C	Student	Student	No
-6479693708	Asia	15	Male	High school	STEM	C	Student	Student	No
-6480130340	Asia	15	Male	High school	STEM	C	Student	Student	No
-6482027609	Asia	15	Male	High school	Computer Science	C	Student	Student	No
-6477653905	Asia	15	Male	High school	Other	Java	Student	Student	No
-6462500048	Asia	15	Male	High school	Other	Python	Student	Student	No
-6483297047	United States	15	Female	High school	Other	Python	Student	Student	No
-6474418039	Asia	16	Male	High school	STEM	C	Student	Student	No
-6474778883	Asia	16	Male	High school	STEM	C	Student	Student	No
-6475095932	Asia	16	Male	High school	STEM	C	Student	Student	No
-6479513477	United States	16	Male	High school	Other	C	Student	Student	No
-6480424113	Asia	16	Female	High school	STEM	C	Student	Student	No
-6480608662	Asia	16	Male	High school	STEM	C	Student	Student	No
-6490652840	Asia	16	Male	High school	Computer Science	C	Student	Student	No
-6465024915	Europe	16	Male	High school	Other	Java	Student	Student	No
-6464771743	Africa	17	Male	High school	STEM	C	Student	Student	No
-6464780933	Australia	17	Female	High school	Other	C	Student	Student	No
-6467699402	Asia	17	Male	High school	Other	C	Student	Student	No
-6476911532	Asia	17	Male	High school	Computer Science	C	Student	Student	No
-6487289692	Asia	17	Male	High school	Other	C	Student	Student	No
-6462898084	Africa	17	Female	High school	Other	JS	Student	Student	No
-6462078616	Middle East	18	Male	College	STEM	C	Student	Student	Yes
-6463288359	United States	18	Male	College	Computer Science	C	Student	Student	Yes
-6464170728	United States	18	Male	College	Other	C	Student	Student	No
-6464242266	United States	18	Male	College	Other	C	Student	Student	No
-6464793178	Europe	18	Male	College	Computer Science	C	Student	Student	Yes
-6465015956	Europe	18	Male	College	Computer Science	C	Student	Student	Yes
-6474343600	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6474376449	Asia	18	Male	College	Other	C	Student	Student	No
-6474961606	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6477179984	Asia	18	Male	College	Computer Science	C	Student	Student	Yes
-6477494438	Europe	18	Male	College	Computer Science	C	Student	Student	Yes
-6478960216	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6479719752	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6480015490	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6485204524	Asia	18	Female	College	Other	C	Student	Student	No
-6486779329	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6486783974	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6486794933	Asia	18	Male	College	Computer Science	C	Student	Student	Yes
-6486798094	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6486849238	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6486877298	Asia	18	Male	College	STEM	C	Student	Student	Yes
-6489083706	Africa	18	Male	College	Computer Science	C	Student	Student	Yes
-6489837415	Asia	18	Male	College	Computer Science	C	Student	Student	Yes
-6486803264	Asia	18	Male	College	STEM	JS	Student	Student	Yes
-6462562434	Europe	18	Male	College	Other	Python	Student	Student	No
-6479050056	United States	18	Male	College	Computer Science	Python	Student	Student	Yes
-6483206678	Asia	18	Male	College	STEM	Python	Student	Student	Yes
-6477381782	Asia	18	Male	College	Computer Science	SQL	Student	Student	No
-6479487800	Asia	18	Male	College	STEM	SQL	Student	Student	No
-6464235408	Asia	18	Male	High school	Computer Science	C	Student	Student	Yes
-6464453728	Asia	18	Female	High school	Computer Science	C	Student	Student	Yes
-6468077107	Asia	18	Female	High school	Computer Science	C	Student	Student	Yes
-6472698654	Asia	18	Male	High school	Computer Science	C	Student	Student	Yes
-6475523014	Asia	18	Male	High school	Computer Science	C	Student	Student	Yes
-6476185834	Asia	18	Male	High school	Computer Science	C	Student	Student	Yes
-6477304511	Asia	18	Non-Binary	High school	Other	C	Student	Student	No
-6477632471	Europe	18	Female	High school	STEM	C	Student	Student	Yes
-6478963762	United States	18	Female	High school	Other	C	Student	Student	No
-6479161470	United States	18	Female	High school	Other	C	Student	Student	No
-6479673902	Asia	18	Male	High school	Computer Science	C	Student	Student	Yes
-6479701032	Africa	18	Female	High school	STEM	C	Student	Student	Yes
-6479829314	Asia	18	Male	High school	Computer Science	C	Student	Student	Yes
-6464597743	Asia	18	Male	High school	Computer Science	Java	Student	Student	Yes
-6488458586	Asia	18	Male	High school	STEM	Python	Student	Student	Yes
-6477732934	Europe	18	Male	High school	Computer Science	SQL	Student	Student	No
-6478965758	United States	18	Male	High school	Other	SQL	Student	Student	No
-6460762620	United States	18	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6462111728	Europe	18	Female	Post graduate	Computer Science	C	Student	Student	Yes
-6464741374	Europe	18	Male	Post graduate	Other	C	Student	Student	No
-6465007738	Asia	18	Male	Post graduate	STEM	C	Student	Student	Yes
-6477987993	Europe	18	Male	Post graduate	STEM	C	Student	Student	Yes
-6478924921	Asia	18	Male	Post graduate	Other	C	Student	Student	No
-6479555558	Canada	18	Male	Post graduate	Other	C	Student	Student	No
-6482144899	Asia	18	Female	Post graduate	Other	C	Student	Student	No
-6483057646	Asia	18	Female	Post graduate	Computer Science	C	Student	Student	Yes
-6486818030	Asia	18	Female	Post graduate	Computer Science	C	Student	Student	Yes
-6487744451	Asia	18	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6464441363	Europe	18	Male	Post graduate	Computer Science	Java	Student	Student	Yes
-6466589450	Asia	18	Male	Post graduate	Computer Science	JS	Student	Student	Yes
-6479681966	Asia	18	Male	Post graduate	STEM	JS	Student	Student	Yes
-6460672822	Asia	18	Male	Post graduate	Computer Science	Python	Student	Student	Yes
-6468008589	Africa	18	Male	Post graduate	Computer Science	Python	Student	Student	Yes
-6477574694	Europe	18	Male	Post graduate	Other	Python	Student	Student	No
-6460673060	United States	19	Male	College	Computer Science	C	Student	Student	Yes
-6462017719	Australia	19	Female	College	Computer Science	C	Student	Student	Yes
-6462173872	United States	19	Male	College	Other	C	Student	Student	No
-6462310084	Europe	19	Male	College	Other	C	Student	Student	No
-6464431956	Asia	19	Male	College	Other	C	Student	Student	No
-6464746392	Europe	19	Male	College	Computer Science	C	Student	Student	Yes
-6465607820	Europe	19	Male	College	STEM	C	Student	Student	Yes
-6465638113	Europe	19	Female	College	STEM	C	Student	Student	Yes
-6466869076	Asia	19	Female	College	Computer Science	C	Student	Student	Yes
-6467724271	Asia	19	Male	College	Computer Science	C	Student	Student	Yes
-6471280566	Asia	19	Non-Binary	College	Computer Science	C	Student	Student	Yes
-6479059269	Canada	19	Male	College	Other	C	Student	Student	No
-6479784920	Asia	19	Male	College	Computer Science	C	Student	Student	Yes
-6479785531	Asia	19	Female	College	STEM	C	Student	Student	Yes
-6479847990	Asia	19	Male	College	STEM	C	Student	Student	Yes
-6479922061	Asia	19	Male	College	STEM	C	Student	Student	Yes
-6480855900	United States	19	Male	College	Computer Science	C	Student	Student	Yes
-6486555088	Asia	19	Male	College	Computer Science	C	Student	Student	Yes
-6486784106	Asia	19	Male	College	STEM	C	Student	Student	Yes
-6486899859	Asia	19	Male	College	Other	C	Student	Student	No
-6486913114	Asia	19	Male	College	STEM	C	Student	Student	Yes
-6487567347	Asia	19	Male	College	STEM	C	Student	Student	Yes
-6488316101	Asia	19	Male	College	Computer Science	C	Student	Student	Yes
-6464395357	Asia	19	Male	College	STEM	Java	Student	Student	Yes
-6466333888	Asia	19	Male	College	Computer Science	Java	Student	Student	Yes
-6477957193	Middle East	19	Female	College	Computer Science	JS	Student	Student	Yes
-6474336344	Asia	19	Male	College	STEM	Python	Student	Student	Yes
-6462371911	Europe	19	Male	College	Computer Science	SQL	Student	Student	No
-6463754548	United States	19	Female	High school	Computer Science	C	Student	Student	Yes
-6464159693	Asia	19	Female	High school	Other	C	Student	Student	No
-6472980855	Europe	19	Male	High school	Other	C	Student	Student	No
-6478889260	Canada	19	Male	High school	Computer Science	C	Student	Student	Yes
-6479010495	Europe	19	Male	High school	Other	C	Student	Student	No
-6479618405	United States	19	Female	High school	Other	C	Student	Student	No
-6482120821	Asia	19	Male	High school	Other	C	Student	Student	No
-6461755691	Europe	19	Male	High school	Computer Science	Java	Student	Student	Yes
-6477590458	Europe	19	Male	High school	STEM	JS	Student	Student	Yes
-6478955299	South America	19	Male	High school	Other	Python	Student	Student	No
-6474399502	Asia	19	Male	Post graduate	STEM	C	Student	Student	Yes
-6478648616	Europe	19	Male	Post graduate	Other	C	Student	Student	No
-6478953174	Asia	19	Female	Post graduate	STEM	C	Student	Student	Yes
-6480741284	Asia	19	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6487443788	Asia	19	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6475443209	Asia	19	Male	Post graduate	Computer Science	JS	Student	Student	Yes
-6463279922	United States	20	Male	College	STEM	C	Student	Student	Yes
-6465149859	Africa	20	Male	College	Computer Science	C	Student	Student	Yes
-6467221922	United States	20	Male	College	Computer Science	C	Student	Student	Yes
-6474393625	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6474417967	Asia	20	Male	College	Computer Science	C	Student	Student	Yes
-6474825378	Asia	20	Male	College	Computer Science	C	Student	Student	Yes
-6477482795	Europe	20	Male	College	STEM	C	Student	Student	Yes
-6477675574	Asia	20	Male	College	Other	C	Student	Student	No
-6477742276	Europe	20	Male	College	STEM	C	Student	Student	Yes
-6478935947	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6478950031	United States	20	Male	College	Computer Science	C	Student	Student	Yes
-6478975881	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6479077302	Asia	20	Female	College	STEM	C	Student	Student	Yes
-6479156722	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6479649286	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6479798574	Asia	20	Female	College	Computer Science	C	Student	Student	Yes
-6480374685	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6480523996	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6480539938	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6480869475	United States	20	Male	College	Other	C	Student	Student	No
-6482125614	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6482182591	Asia	20	Male	College	Computer Science	C	Student	Student	Yes
-6483691822	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6486606144	Asia	20	Male	College	Other	C	Student	Student	No
-6486777688	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6487431237	Asia	20	Male	College	STEM	C	Student	Student	Yes
-6477204735	Asia	20	Male	College	STEM	Java	Student	Student	Yes
-6479234984	Europe	20	Male	College	Other	Java	Student	Student	No
-6463540890	United States	20	Male	College	Other	JS	Student	Student	No
-6479607344	Asia	20	Male	College	STEM	JS	Student	Student	Yes
-6486862337	Asia	20	Male	College	Computer Science	JS	Student	Student	Yes
-6479754269	Asia	20	Female	College	STEM	Python	Student	Student	Yes
-6463645917	United States	20	Male	College	Other	SQL	Student	Student	No
-6463309177	United States	20	Male	High school	Other	C	Student	Student	No
-6474553315	Asia	20	Male	High school	STEM	C	Student	Student	Yes
-6477553042	Africa	20	Male	High school	Other	C	Student	Student	No
-6478832004	Asia	20	Male	High school	STEM	C	Student	Student	Yes
-6478907923	Asia	20	Male	High school	STEM	C	Student	Student	Yes
-6479011941	Canada	20	Male	High school	Other	C	Student	Student	No
-6479870086	Asia	20	Male	High school	STEM	C	Student	Student	Yes
-6455303034	Europe	20	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6464756360	Europe	20	Male	Post graduate	Other	C	Student	Student	No
-6465425332	Europe	20	Male	Post graduate	Other	C	Student	Student	No
-6466696661	Europe	20	Male	Post graduate	STEM	C	Student	Student	Yes
-6474330474	Asia	20	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6476221987	Asia	20	Male	Post graduate	STEM	C	Student	Student	Yes
-6479393233	United States	20	Female	Post graduate	Other	C	Student	Student	No
-6479893878	Asia	20	Male	Post graduate	STEM	C	Student	Student	Yes
-6481046495	Asia	20	Male	Post graduate	STEM	C	Student	Student	Yes
-6482073973	Asia	20	Male	Post graduate	Other	C	Student	Student	No
-6486791441	Asia	20	Male	Post graduate	Other	C	Student	Student	No
-6460878946	United States	21	Male	College	Computer Science	C	Student	Student	Yes
-6461317013	Asia	21	Male	College	Computer Science	C	Student	Student	Yes
-6461645882	United States	21	Male	College	Computer Science	C	Student	Student	Yes
-6464504549	Canada	21	Male	College	STEM	C	Student	Student	Yes
-6474327780	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6478935311	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6479169671	Asia	21	Male	College	Other	C	Student	Student	No
-6479203064	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6479230973	United States	21	Male	College	Other	C	Student	Student	No
-6479722983	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6479909101	Africa	21	Male	College	Computer Science	C	Student	Student	Yes
-6480051945	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6482104070	Asia	21	Male	College	Computer Science	C	Student	Student	Yes
-6482727380	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6486790868	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6486813324	Asia	21	Female	College	STEM	C	Student	Student	Yes
-6487587142	Asia	21	Male	College	STEM	C	Student	Student	Yes
-6487769418	Asia	21	Female	College	STEM	C	Student	Student	Yes
-6461691444	South America	21	Female	College	Other	Java	Student	Student	No
-6464853000	Europe	21	Male	College	Computer Science	Java	Student	Student	Yes
-6477168404	Europe	21	Male	College	Other	Java	Student	Student	No
-6461533372	Asia	21	Female	College	Computer Science	JS	Student	Student	Yes
-6478939893	Asia	21	Male	College	STEM	JS	Student	Student	Yes
-6480524580	Asia	21	Female	College	Computer Science	JS	Student	Student	Yes
-6474515868	Asia	21	Male	College	Other	Python	Student	Student	No
-6486846812	Asia	21	Male	College	STEM	Python	Student	Student	Yes
-6459523383	Africa	21	Male	College	STEM	SQL	Student	Student	No
-6467290128	United States	21	Male	College	Computer Science	SQL	Student	Student	No
-6479749642	Asia	21	Female	College	STEM	SQL	Student	Student	No
-6460703770	United States	21	Male	High school	Computer Science	C	Student	Student	Yes
-6461496142	Asia	21	Male	High school	STEM	C	Student	Student	Yes
-6463302261	United States	21	Male	High school	Computer Science	C	Student	Student	Yes
-6465058244	Europe	21	Male	High school	Other	C	Student	Student	No
-6470303934	Asia	21	Male	High school	Computer Science	C	Student	Student	Yes
-6477486590	Asia	21	Male	High school	Computer Science	C	Student	Student	Yes
-6479512299	Canada	21	Male	High school	Other	C	Student	Student	No
-6479561799	United States	21	Female	High school	Other	C	Student	Student	No
-6483550435	Asia	21	Male	High school	Computer Science	C	Student	Student	Yes
-6486782591	Asia	21	Female	High school	Computer Science	C	Student	Student	Yes
-6486789997	Asia	21	Male	High school	STEM	C	Student	Student	Yes
-6463679342	United States	21	Non-Binary	High school	Other	JS	Student	Student	No
-6480430186	Africa	21	Female	High school	Computer Science	SQL	Student	Student	No
-6463698859	United States	21	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6465387529	Europe	21	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6474333196	Asia	21	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6474421214	Asia	21	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6474500469	Asia	21	Male	Post graduate	STEM	C	Student	Student	Yes
-6474898353	Asia	21	Male	Post graduate	STEM	C	Student	Student	Yes
-6479008930	Asia	21	Female	Post graduate	STEM	C	Student	Student	Yes
-6479636365	Asia	21	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6480291673	Europe	21	Male	Post graduate	STEM	C	Student	Student	Yes
-6477982020	Asia	21	Female	Post graduate	Computer Science	Java	Student	Student	Yes
-6479510673	Asia	21	Male	Post graduate	Computer Science	Python	Student	Student	Yes
-6487481615	Asia	22	Male	College	STEM	C	Junior	Student	Yes
-6463545855	United States	22	Female	College	Computer Science	C	Student	Student	Yes
-6464088665	Asia	22	Male	College	Computer Science	C	Student	Student	Yes
-6464761281	Europe	22	Male	College	Other	C	Student	Student	No
-6465077516	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6469476457	Africa	22	Male	College	Computer Science	C	Student	Student	Yes
-6470413213	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6474336049	Asia	22	Male	College	Computer Science	C	Student	Student	Yes
-6474419985	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6475556384	Asia	22	Female	College	STEM	C	Student	Student	Yes
-6477510717	Europe	22	Male	College	Other	C	Student	Student	No
-6477773841	Middle East	22	Female	College	Computer Science	C	Student	Student	Yes
-6478927597	United States	22	Male	College	Other	C	Student	Student	No
-6479377457	United States	22	Male	College	Other	C	Student	Student	No
-6479539964	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6479572082	Asia	22	Female	College	Other	C	Student	Student	No
-6479705797	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6479791774	Asia	22	Female	College	STEM	C	Student	Student	Yes
-6480265099	Asia	22	Female	College	STEM	C	Student	Student	Yes
-6480920821	Asia	22	Female	College	STEM	C	Student	Student	Yes
-6481231654	Canada	22	Female	College	Other	C	Student	Student	No
-6481967560	Asia	22	Male	College	Computer Science	C	Student	Student	Yes
-6482332555	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6486787519	Asia	22	Male	College	Computer Science	C	Student	Student	Yes
-6486805908	Asia	22	Male	College	Computer Science	C	Student	Student	Yes
-6487303147	Asia	22	Male	College	STEM	C	Student	Student	Yes
-6461787548	Asia	22	Male	College	Computer Science	Java	Student	Student	Yes
-6464939712	Europe	22	Male	College	Computer Science	JS	Student	Student	Yes
-6466854848	Europe	22	Female	College	Other	JS	Student	Student	No
-6466890044	Europe	22	Female	College	Computer Science	JS	Student	Student	Yes
-6477681882	Europe	22	Male	College	Other	JS	Student	Student	No
-6479081477	United States	22	Male	College	Other	JS	Student	Student	No
-6479322948	Asia	22	Male	College	STEM	JS	Student	Student	Yes
-6463965055	United States	22	Male	College	Other	Python	Student	Student	No
-6479235311	United States	22	Female	College	Other	Python	Student	Student	No
-6457733958	United States	22	Female	College	Other	SQL	Student	Student	No
-6465341634	Middle East	22	Male	High school	Computer Science	C	Student	Student	Yes
-6477529469	Europe	22	Male	High school	No degree	C	Student	Student	No
-6478252077	Europe	22	Male	High school	STEM	C	Student	Student	Yes
-6479710874	United States	22	Male	High school	Computer Science	C	Student	Student	Yes
-6479905943	Asia	22	Male	High school	STEM	C	Student	Student	Yes
-6480758131	Asia	22	Male	High school	Computer Science	C	Student	Student	Yes
-6483409272	Asia	22	Male	High school	STEM	C	Student	Student	Yes
-6486803034	Asia	22	Male	High school	STEM	C	Student	Student	Yes
-6487170900	Asia	22	Male	High school	STEM	C	Student	Student	Yes
-6477316642	Asia	22	Male	High school	Computer Science	Java	Student	Student	Yes
-6468245640	Europe	22	Male	High school	Other	JS	Student	Student	No
-6474387612	Asia	22	Male	High school	STEM	JS	Student	Student	Yes
-6463288667	United States	22	Female	High school	STEM	Python	Student	Student	Yes
-6465076990	Asia	22	Male	High school	Computer Science	SQL	Student	Student	No
-6468063066	Africa	22	Female	High school	Other	SQL	Student	Student	No
-6481806002	United States	22	Female	High school	Computer Science	SQL	Student	Student	No
-6465283937	Europe	22	Male	Post graduate	Other	C	Student	Student	No
-6467685027	Asia	22	Female	Post graduate	Computer Science	C	Student	Student	Yes
-6471147657	United States	22	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6471652668	Middle East	22	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6474333114	Asia	22	Male	Post graduate	Other	C	Student	Student	No
-6478930385	Asia	22	Male	Post graduate	STEM	C	Student	Student	Yes
-6479120313	Africa	22	Male	Post graduate	Computer Science	C	Student	Student	Yes
-6481474560	Asia	22	Female	Post graduate	Computer Science	C	Student	Student	Yes
-6464550639	Asia	22	Male	Post graduate	Computer Science	Java	Student	Student	Yes
-6482405857	Asia	22	Female	Post graduate	Other	Python	Student	Student	No
-6460962974	United States	22	Male	Post graduate	Other	SQL	Student	Student	No
-6464265767	Canada	22	Male	Post graduate	Other	SQL	Student	Student	No
-6462064588	Africa	23	Male	College	STEM	JS	Junior	Developer	Yes
-6465898332	United States	23	Male	College	Computer Science	JS	Junior	Developer	Yes
-6486790562	Asia	23	Male	College	STEM	JS	Junior	Developer	Yes
-6477854635	Africa	23	Male	College	Computer Science	SQL	Junior	Developer	No
-6484051542	United States	23	Non-Binary	College	Computer Science	SQL	Junior	Developer	No
-6463450703	United States	23	Male	College	Other	C	Junior	Student	No
-6475603587	Asia	23	Female	College	Computer Science	C	Junior	Student	Yes
-6477281643	Asia	23	Male	College	STEM	C	Junior	Student	Yes
-6477932788	Middle East	23	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6478958247	Canada	23	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6477691538	Europe	23	Female	College	Computer Science	JS	Student	Data Scientist	Yes
-6475826788	Asia	23	Female	College	Computer Science	Python	Student	Data Scientist	Yes
-6477497847	Europe	23	Male	College	Computer Science	Python	Student	Data Scientist	Yes
-6477557683	Europe	23	Male	College	STEM	Python	Student	Data Scientist	Yes
-6486864830	Asia	23	Male	College	STEM	Python	Student	Data Scientist	Yes
-6474340731	Asia	23	Male	College	Other	C	Student	Student	No
-6481017399	United States	23	Female	College	Computer Science	Java	Student	Student	Yes
-6490345922	Asia	23	Male	College	STEM	Java	Student	Student	Yes
-6480222107	Europe	23	Male	High school	STEM	Java	Junior	Developer	Yes
-6466312902	Australia	23	Male	High school	No degree	C	Junior	Student	No
-6486806599	Asia	23	Male	High school	STEM	JS	New grad	Developer	Yes
-6477544804	Africa	23	Male	High school	Computer Science	Python	Student	Data Scientist	Yes
-6481289723	Canada	23	Female	High school	STEM	Python	Student	Data Scientist	Yes
-6483473096	Canada	23	Male	High school	Other	Python	Student	Data Scientist	Yes
-6464553043	Asia	23	Female	High school	Computer Science	C	Student	Student	Yes
-6468245447	Asia	23	Male	High school	Computer Science	C	Student	Student	Yes
-6468893659	United States	23	Male	High school	STEM	C	Student	Student	Yes
-6474434553	Asia	23	Male	High school	STEM	C	Student	Student	Yes
-6479881337	Canada	23	Male	High school	STEM	Java	Student	Student	Yes
-6479789063	Asia	23	Female	Post graduate	STEM	Python	Junior	Data Scientist	Yes
-6481262094	Asia	23	Male	Post graduate	STEM	Python	Junior	Developer	Yes
-6459163779	Europe	23	Male	Post graduate	Computer Science	SQL	Junior	Developer	No
-6460958707	United States	23	Female	Post graduate	Computer Science	Python	Student	Data Scientist	Yes
-6463483390	United States	23	Female	Post graduate	Other	Python	Student	Data Scientist	Yes
-6479351002	United States	23	Male	Post graduate	STEM	Python	Student	Data Scientist	Yes
-6478944142	Asia	23	Male	Post graduate	Other	C	Student	Student	No
-6479458593	United States	23	Male	Post graduate	STEM	Java	Student	Student	Yes
-6486783494	Asia	23	Male	Post graduate	STEM	Java	Student	Student	Yes
-6487065903	Asia	23	Male	Post graduate	STEM	Java	Student	Student	Yes
-6479149027	Asia	24	Male	College	STEM	JS	Junior	Data Scientist	Yes
-6479650954	Asia	24	Male	College	Computer Science	JS	Junior	Data Scientist	Yes
-6455016362	United States	24	Male	College	Other	Python	Junior	Data Scientist	Yes
-6474448404	Asia	24	Male	College	STEM	Python	Junior	Data Scientist	Yes
-6477515469	Europe	24	Male	College	Other	Python	Junior	Data Scientist	Yes
-6477554901	Africa	24	Male	College	Other	Python	Junior	Data Scientist	Yes
-6478844359	Asia	24	Female	College	STEM	Python	Junior	Data Scientist	Yes
-6478908502	Asia	24	Male	College	STEM	Python	Junior	Data Scientist	Yes
-6478997138	Asia	24	Male	College	Computer Science	Python	Junior	Data Scientist	Yes
-6479740940	Asia	24	Male	College	STEM	C	Junior	Developer	Yes
-6474998967	Asia	24	Male	College	STEM	JS	Junior	Developer	Yes
-6479380244	United States	24	Female	College	Other	JS	Junior	Developer	Yes
-6477238035	Asia	24	Male	College	Other	SQL	Junior	Developer	Yes
-6464788797	Africa	24	Male	College	STEM	JS	New grad	Data Scientist	Yes
-6463815915	United States	24	Male	College	Other	Python	New grad	Data Scientist	Yes
-6474393798	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6474395579	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6474399348	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6475115658	Asia	24	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6475145024	Asia	24	Female	College	Computer Science	Python	New grad	Data Scientist	Yes
-6475755551	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6478988740	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6479072846	Canada	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6479587610	Asia	24	Female	College	Computer Science	Python	New grad	Data Scientist	Yes
-6479675921	Asia	24	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6479727089	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6479742281	Asia	24	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6479805206	Asia	24	Male	College	Other	Python	New grad	Data Scientist	Yes
-6479833352	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6480296978	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6480310638	Asia	24	Female	College	STEM	Python	New grad	Data Scientist	Yes
-6481109414	United States	24	Male	College	Other	Python	New grad	Data Scientist	Yes
-6487832153	Asia	24	Male	College	STEM	Python	New grad	Data Scientist	Yes
-6479584200	Asia	24	Male	College	STEM	JS	New grad	Developer	Yes
-6464751502	Europe	24	Non-Binary	College	Other	Python	Senior	Data Scientist	Yes
-6462088667	Middle East	24	Male	College	Computer Science	JS	Student	Data Scientist	Yes
-6479961637	Europe	24	Female	College	Computer Science	JS	Student	Data Scientist	Yes
-6478990290	Asia	24	Male	College	STEM	Python	Student	Data Scientist	Yes
-6483184009	Africa	24	Male	High school	Computer Science	JS	Freelancer	Developer	Yes
-6479188873	Africa	24	Male	High school	Other	Python	Junior	Developer	Yes
-6479753285	Asia	24	Male	High school	Computer Science	Python	Manager	Developer	No
-6475789701	Asia	24	Female	High school	Computer Science	JS	Student	Data Scientist	Yes
-6476667480	Australia	24	Male	High school	Computer Science	JS	Student	Data Scientist	Yes
-6477439414	Asia	24	Male	High school	Computer Science	JS	Student	Data Scientist	Yes
-6482101342	Asia	24	Male	High school	Computer Science	JS	Student	Data Scientist	Yes
-6474360331	Asia	24	Male	High school	Other	Python	Student	Data Scientist	Yes
-6479538256	Asia	24	Male	Post graduate	Computer Science	C	Junior	Developer	Yes
-6486801408	Asia	24	Male	Post graduate	Computer Science	C	Junior	Developer	Yes
-6461551059	South America	24	Male	Post graduate	Other	Python	Manager	Data Scientist	Yes
-6474456079	Asia	24	Male	Post graduate	Computer Science	Python	New grad	Data Scientist	Yes
-6479150319	Europe	24	Male	Post graduate	STEM	Python	New grad	Data Scientist	Yes
-6479699442	Asia	24	Male	Post graduate	STEM	Python	New grad	Data Scientist	Yes
-6482451388	Asia	24	Female	Post graduate	Computer Science	Python	New grad	Data Scientist	Yes
-6464518897	Asia	24	Male	Post graduate	Computer Science	JS	Student	Data Scientist	Yes
-6477445710	Asia	24	Male	Post graduate	Computer Science	JS	Student	Data Scientist	Yes
-6479922164	Asia	25	Male	College	STEM	JS	Junior	Data Scientist	Yes
-6460890926	United States	25	Male	College	Other	JS	Junior	Data Scientist	Yes
-6479542534	United States	25	Male	College	Other	JS	Junior	Data Scientist	Yes
-6463267383	United States	25	Female	College	Computer Science	Python	Junior	Data Scientist	Yes
-6475479995	Asia	25	Female	College	Computer Science	Python	Junior	Data Scientist	Yes
-6478948493	United States	25	Male	College	Other	Python	Junior	Data Scientist	Yes
-6478973061	United States	25	Male	College	Other	Python	Junior	Data Scientist	Yes
-6478175599	Europe	25	Female	College	Other	C	Junior	Developer	Yes
-6478310409	Middle East	25	Male	College	Other	C	Junior	Developer	Yes
-6479165911	United States	25	Male	College	Computer Science	Java	Junior	Developer	Yes
-6479411447	United States	25	Male	College	Other	Java	Junior	Developer	Yes
-6460890229	United States	25	Male	College	Other	JS	Junior	Developer	Yes
-6462702402	Africa	25	Female	College	Other	JS	Junior	Developer	Yes
-6464280244	United States	25	Female	College	Other	JS	Junior	Developer	Yes
-6478813398	United States	25	Male	College	STEM	JS	Junior	Developer	Yes
-6479913135	Asia	25	Male	College	STEM	JS	Junior	Developer	Yes
-6463477104	United States	25	Female	College	STEM	Python	Junior	Developer	Yes
-6473269990	United States	25	Female	College	Computer Science	Python	Junior	Developer	Yes
-6478914884	United States	25	Male	College	Other	Python	Junior	Developer	Yes
-6478989328	United States	25	Female	College	Other	Python	Junior	Developer	Yes
-6479386773	United States	25	Male	College	Other	Java	Manager	Developer	No
-6465434067	Middle East	25	Male	College	Other	C	New grad	Developer	Yes
-6463288863	United States	25	Male	College	Other	C	Senior	Developer	No
-6463915393	United States	25	Male	College	Other	C	Senior	Developer	No
-6474731297	Asia	25	Male	College	STEM	C	Senior	Developer	No
-6488133697	Asia	25	Male	College	STEM	C	Senior	Developer	No
-6479037750	United States	25	Male	College	Other	Java	Senior	Developer	No
-6479259313	Africa	25	Male	College	Other	Java	Senior	Developer	No
-6479712838	United States	25	Male	College	Other	Java	Senior	Developer	No
-6480139331	United States	25	Male	College	Other	Java	Senior	Developer	No
-6479386330	Asia	25	Male	College	STEM	JS	Senior	Developer	No
-6481009846	United States	25	Female	College	Other	JS	Senior	Developer	No
-6463374791	United States	25	Male	College	Computer Science	Python	Senior	Developer	No
-6478406519	Europe	25	Female	College	Computer Science	JS	Student	Data Scientist	Yes
-6478752956	Europe	25	Female	College	Other	JS	Student	Data Scientist	Yes
-6463495823	United States	25	Male	College	Computer Science	Python	Student	Data Scientist	Yes
-6462082127	Europe	25	Female	Post graduate	Other	JS	Junior	Data Scientist	Yes
-6478524339	Europe	25	Female	Post graduate	Other	JS	Junior	Data Scientist	Yes
-6464898938	Europe	25	Male	Post graduate	Computer Science	Python	Junior	Data Scientist	Yes
-6464970700	Europe	25	Male	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6477724005	Europe	25	Female	Post graduate	Computer Science	Python	Junior	Data Scientist	Yes
-6479442344	United States	25	Female	Post graduate	Other	Java	Junior	Developer	Yes
-6463958994	United States	25	Female	Post graduate	Computer Science	Python	Junior	Developer	Yes
-6464901231	Europe	25	Male	Post graduate	Computer Science	C	Senior	Developer	No
-6464303643	United States	25	Male	Post graduate	Computer Science	Python	Student	Data Scientist	Yes
-6478468611	Europe	26	Male	College	Other	C	Freelancer	Developer	Yes
-6464899472	Middle East	26	Female	College	Computer Science	C	Junior	Administrator	No
-6479301528	Africa	26	Male	College	STEM	C	Junior	Administrator	No
-6478883392	United States	26	Female	College	STEM	JS	Junior	Data Scientist	Yes
-6479387283	United States	26	Male	College	Other	JS	Junior	Data Scientist	Yes
-6479411317	United States	26	Male	College	Other	JS	Junior	Data Scientist	Yes
-6480674803	United States	26	Male	College	Other	C	Junior	Developer	Yes
-6463293311	United States	26	Female	College	Other	JS	Junior	Developer	Yes
-6463712134	United States	26	Male	College	Other	JS	Junior	Developer	Yes
-6479970596	Asia	26	Male	College	Other	JS	Junior	Developer	Yes
-6479987865	United States	26	Female	College	Other	JS	Junior	Developer	Yes
-6461318901	United States	26	Male	College	Other	Python	Junior	Developer	Yes
-6468965256	Africa	26	Male	College	Computer Science	SQL	Junior	Developer	No
-6474327329	Asia	26	Male	College	STEM	C	Senior	Administrator	No
-6478870720	United States	26	Female	College	STEM	C	Senior	Administrator	No
-6478982155	South America	26	Male	College	Computer Science	C	Senior	Administrator	No
-6479375422	United States	26	Male	College	Other	Python	Senior	Administrator	No
-6479601908	Asia	26	Male	College	STEM	JS	Senior	Data Scientist	Yes
-6463551863	United States	26	Male	College	Other	C	Senior	Developer	No
-6463570660	Canada	26	Male	College	Other	C	Senior	Developer	No
-6464307525	United States	26	Male	College	Other	C	Senior	Developer	No
-6466356561	Europe	26	Male	College	Other	C	Senior	Developer	No
-6479409297	United States	26	Female	College	Other	C	Senior	Developer	No
-6479917708	United States	26	Male	College	Other	C	Senior	Developer	No
-6469761079	United States	26	Female	College	Other	JS	Senior	Developer	No
-6478968862	United States	26	Male	College	Other	JS	Senior	Developer	No
-6460896132	United States	26	Male	College	Other	Python	Senior	Developer	No
-6462605211	Asia	26	Male	College	Computer Science	JS	Student	Data Scientist	Yes
-6463512568	United States	26	Male	College	Other	JS	Student	Data Scientist	Yes
-6463525745	United States	26	Male	High school	Other	C	Junior	Administrator	No
-6461288870	United States	26	Male	High school	Other	C	Junior	Developer	Yes
-6464456343	Europe	26	Male	High school	Other	Java	Manager	Administrator	No
-6490780142	United States	26	Male	High school	STEM	JS	Senior	Developer	No
-6478799583	United States	26	Male	High school	Other	Python	Senior	Developer	No
-6460844643	Africa	26	Male	Post graduate	Other	C	Freelancer	Developer	Yes
-6479632759	United States	26	Female	Post graduate	Other	JS	Junior	Data Scientist	Yes
-6479037835	United States	26	Female	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6464842560	Europe	26	Male	Post graduate	Other	C	Junior	Developer	Yes
-6478363158	Middle East	26	Male	Post graduate	Computer Science	C	Junior	Developer	Yes
-6482815780	Europe	26	Male	Post graduate	Other	Java	Junior	Developer	Yes
-6478975547	United States	26	Male	Post graduate	Other	JS	Junior	Developer	Yes
-6466212680	Australia	26	Female	Post graduate	Other	Python	Junior	Developer	Yes
-6479219336	United States	26	Male	Post graduate	Other	C	Manager	Developer	No
-6464756443	Middle East	26	Male	Post graduate	Computer Science	C	Senior	Administrator	No
-6465367676	Europe	26	Male	Post graduate	Computer Science	C	Senior	Administrator	No
-6465921121	Europe	27	Male	College	Other	C	Junior	Administrator	No
-6468485451	United States	27	Male	College	Other	C	Junior	Administrator	No
-6470733012	United States	27	Male	College	Computer Science	C	Junior	Administrator	No
-6478802534	Europe	27	Male	College	Other	C	Junior	Administrator	No
-6478810158	Asia	27	Female	College	Other	C	Junior	Administrator	No
-6483459382	United States	27	Male	College	Other	C	Junior	Administrator	No
-6479803279	United States	27	Male	College	STEM	JS	Junior	Data Scientist	Yes
-6479613374	United States	27	Male	College	Other	JS	Junior	Developer	Yes
-6477678155	Europe	27	Male	College	Other	Python	Junior	Developer	Yes
-6463542400	United States	27	Male	College	Other	C	Manager	Developer	No
-6460864611	United States	27	Male	College	Computer Science	Python	Manager	Developer	No
-6477492529	Africa	27	Male	College	Other	Python	Senior	Data Scientist	Yes
-6478901097	United States	27	Male	College	STEM	C	Senior	Developer	No
-6479708169	Canada	27	Male	College	Other	C	Senior	Developer	No
-6480163923	Europe	27	Male	College	Other	C	Senior	Developer	No
-6466007280	Europe	27	Male	College	Other	JS	Senior	Developer	No
-6477229517	Middle East	27	Male	College	Other	JS	Senior	Developer	No
-6463339970	South America	27	Male	College	Computer Science	Python	Senior	Developer	No
-6477168778	Asia	27	Female	College	Other	Python	Senior	Developer	No
-6463810204	Europe	27	Male	College	Other	JS	Student	Data Scientist	Yes
-6478954940	United States	27	Male	High school	Other	C	Freelancer	Developer	Yes
-6464875180	Middle East	27	Male	High school	Other	JS	Junior	Developer	Yes
-6460688227	United States	27	Male	High school	Other	Python	Junior	Developer	Yes
-6460933012	Canada	27	Male	High school	Other	JS	Senior	Data Scientist	Yes
-6479077117	United States	27	Male	High school	Other	C	Senior	Developer	No
-6468012573	Europe	27	Male	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6464741672	Europe	27	Male	Post graduate	Computer Science	C	Senior	Developer	No
-6477240572	Europe	27	Male	Post graduate	STEM	Java	Senior	Developer	No
-6464260582	United States	27	Male	Post graduate	Computer Science	Python	Senior	Developer	No
-6464908683	Europe	27	Male	Post graduate	STEM	SQL	Senior	Developer	No
-6463699092	United States	27	Male	Post graduate	Other	JS	Student	Data Scientist	Yes
-6486808220	Asia	28	Male	College	Other	C	Freelancer	Administrator	No
-6478967225	United States	28	Female	College	Other	C	Junior	Administrator	No
-6477493268	Middle East	28	Male	College	Computer Science	Python	Junior	Data Scientist	Yes
-6479707712	United States	28	Male	College	Other	Python	Junior	Data Scientist	Yes
-6465593514	United States	28	Female	College	STEM	Python	Junior	Data Scientist	Yes
-6477142198	Asia	28	Male	College	STEM	Python	Junior	Data Scientist	Yes
-6479184499	United States	28	Male	College	Other	Python	Junior	Data Scientist	Yes
-6464013575	United States	28	Female	College	Other	JS	Junior	Developer	Yes
-6464808499	United States	28	Female	College	Other	JS	Junior	Developer	Yes
-6465964397	United States	28	Female	College	Other	JS	Junior	Developer	Yes
-6478948327	United States	28	Male	College	Other	JS	Junior	Developer	Yes
-6479073444	United States	28	Female	College	Other	JS	Junior	Developer	Yes
-6463296090	United States	28	Male	College	Other	Python	Junior	Developer	Yes
-6464652771	Middle East	28	Male	College	Other	SQL	Junior	Developer	No
-6489306304	United States	28	Male	College	Other	Python	Manager	Data Scientist	Yes
-6474325650	Asia	28	Male	College	Computer Science	Python	Manager	Developer	No
-6483594901	Africa	28	Male	College	Other	Python	Manager	Developer	No
-6463995476	United States	28	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6477171692	Australia	28	Female	College	Computer Science	Python	New grad	Developer	Yes
-6463498459	United States	28	Male	College	Other	C	Senior	Administrator	No
-6480163502	Asia	28	Male	College	STEM	Python	Senior	Data Scientist	Yes
-6457937690	Canada	28	Female	College	Computer Science	C	Senior	Developer	No
-6464775541	Europe	28	Male	College	Other	C	Senior	Developer	No
-6466429718	United States	28	Female	College	Other	C	Senior	Developer	No
-6474334781	Asia	28	Male	College	STEM	C	Senior	Developer	No
-6479243112	United States	28	Male	College	Other	C	Senior	Developer	No
-6479288094	Asia	28	Male	College	Other	C	Senior	Developer	No
-6479563878	United States	28	Male	College	Other	C	Senior	Developer	No
-6479589235	United States	28	Male	College	Other	C	Senior	Developer	No
-6468389698	Middle East	28	Male	College	Other	JS	Senior	Developer	No
-6477171869	Asia	28	Male	College	Other	JS	Senior	Developer	No
-6481499213	United States	28	Male	College	Other	JS	Senior	Developer	No
-6472878331	Europe	28	Male	College	Other	Python	Senior	Developer	No
-6477612823	Europe	28	Male	High school	Other	SQL	Freelancer	Developer	No
-6478840074	Canada	28	Male	High school	Other	JS	Junior	Developer	Yes
-6464340801	United States	28	Male	High school	Other	C	Senior	Administrator	No
-6466733141	Europe	28	Male	High school	Other	C	Senior	Developer	No
-6477490427	Middle East	28	Male	High school	Other	C	Senior	Developer	No
-6464064076	Middle East	28	Male	High school	Computer Science	JS	Senior	Developer	No
-6467702034	Asia	28	Male	Post graduate	Other	Java	Junior	Administrator	No
-6479398913	United States	28	Female	Post graduate	STEM	JS	Junior	Data Scientist	Yes
-6464439626	Asia	28	Male	Post graduate	Other	Java	Senior	Administrator	No
-6477749329	Europe	28	Female	Post graduate	STEM	JS	Senior	Developer	No
-6461523418	United States	28	Male	Post graduate	Other	Python	Senior	Developer	No
-6474375945	Asia	28	Male	Post graduate	Computer Science	Python	Senior	Developer	No
-6464414854	Middle East	28	Male	Post graduate	STEM	Python	Student	Data Scientist	Yes
-6461771171	Asia	29	Male	College	Computer Science	Python	Freelancer	Data Scientist	Yes
-6478940179	Asia	29	Male	College	STEM	Python	Freelancer	Data Scientist	Yes
-6463466973	United States	29	Male	College	Other	JS	Junior	Data Scientist	Yes
-6479107935	United States	29	Female	College	STEM	Python	Junior	Data Scientist	Yes
-6460903039	South America	29	Non-Binary	College	Other	C	Junior	Developer	Yes
-6461189671	United States	29	Female	College	STEM	C	Junior	Developer	Yes
-6463360411	United States	29	Male	College	Other	C	Junior	Developer	Yes
-6464383911	United States	29	Male	College	STEM	C	Junior	Developer	Yes
-6468959563	Africa	29	Male	College	Other	C	Junior	Developer	Yes
-6478627528	Asia	29	Male	College	STEM	C	Junior	Developer	Yes
-6478875514	United States	29	Male	College	Other	C	Junior	Developer	Yes
-6479359921	United States	29	Male	College	Other	C	Junior	Developer	Yes
-6485884856	United States	29	Male	College	Other	C	Junior	Developer	Yes
-6486779478	Asia	29	Male	College	Computer Science	C	Junior	Developer	Yes
-6486824753	Asia	29	Female	College	Computer Science	C	Junior	Developer	Yes
-6486962338	Asia	29	Male	College	STEM	C	Junior	Developer	Yes
-6463802120	United States	29	Male	College	Other	JS	Junior	Developer	Yes
-6477520927	Europe	29	Male	College	Computer Science	JS	Junior	Developer	Yes
-6474333213	Asia	29	Male	College	STEM	Python	Manager	Data Scientist	Yes
-6478873400	United States	29	Male	College	Other	C	Senior	Administrator	No
-6478905512	United States	29	Male	College	Computer Science	C	Senior	Administrator	No
-6483853339	United States	29	Female	College	Other	C	Senior	Administrator	No
-6480480072	Canada	29	Female	College	Other	JS	Senior	Data Scientist	Yes
-6481761732	United States	29	Female	College	Other	JS	Senior	Data Scientist	Yes
-6464440612	Asia	29	Male	College	Other	C	Senior	Developer	No
-6477339699	Asia	29	Male	College	Computer Science	C	Senior	Developer	No
-6478964676	United States	29	Male	College	Other	C	Senior	Developer	No
-6479027228	Africa	29	Male	College	Other	C	Senior	Developer	No
-6464532335	Europe	29	Male	College	Other	JS	Senior	Developer	No
-6486855516	Asia	29	Male	College	STEM	Python	Senior	Developer	No
-6463423663	United States	29	Male	High school	Computer Science	C	Senior	Administrator	No
-6478922603	United States	29	Male	High school	Other	C	Senior	Administrator	No
-6464506700	Asia	29	Male	High school	STEM	Python	Student	Data Scientist	Yes
-6465316547	United States	29	Male	Post graduate	Other	C	Freelancer	Developer	Yes
-6460638180	Europe	29	Female	Post graduate	Other	C	Junior	Developer	Yes
-6463691603	United States	29	Female	Post graduate	Other	C	Junior	Developer	Yes
-6463780286	United States	29	Male	Post graduate	Other	C	Junior	Developer	Yes
-6464405186	Europe	29	Male	Post graduate	Other	JS	Junior	Developer	Yes
-6466783040	Europe	29	Female	Post graduate	Other	JS	Junior	Developer	Yes
-6477547533	Middle East	29	Male	Post graduate	Other	Python	Manager	Data Scientist	Yes
-6464498972	Middle East	29	Male	Post graduate	Other	C	Manager	Developer	No
-6479742331	United States	29	Male	Post graduate	Other	C	Manager	Developer	No
-6463297256	United States	29	Male	Post graduate	Other	C	Senior	Administrator	No
-6483707733	United States	29	Male	Post graduate	Other	C	Senior	Administrator	No
-6463389834	United States	29	Male	Post graduate	Other	Python	Senior	Data Scientist	Yes
-6475509852	Asia	29	Male	Post graduate	Computer Science	Python	Senior	Data Scientist	Yes
-6487929085	Europe	29	Male	Post graduate	Other	JS	Senior	Developer	No
-6460954498	United States	29	Non-Binary	Post graduate	STEM	Python	Senior	Developer	No
-6479021391	United States	29	Female	Post graduate	Other	Python	Student	Data Scientist	Yes
-6464764873	Europe	30	Male	College	Other	C	Freelancer	Developer	Yes
-6464422462	Asia	30	Male	College	STEM	SQL	Freelancer	Developer	No
-6460969422	United States	30	Male	College	Computer Science	JS	Junior	Data Scientist	Yes
-6477500768	Europe	30	Male	College	Other	JS	Junior	Data Scientist	Yes
-6461134557	United States	30	Female	College	Other	Python	Junior	Data Scientist	Yes
-6474357101	Asia	30	Female	College	STEM	Python	Junior	Data Scientist	Yes
-6460937848	United States	30	Male	College	Other	Python	Junior	Data Scientist	Yes
-6479013047	United States	30	Female	College	Other	Python	Junior	Data Scientist	Yes
-6460872031	United States	30	Female	College	STEM	C	Junior	Developer	Yes
-6478877179	United States	30	Female	College	Other	C	Junior	Developer	Yes
-6479182210	United States	30	Male	College	Other	C	Junior	Developer	Yes
-6483063164	United States	30	Male	College	Other	C	Junior	Developer	Yes
-6484752267	Asia	30	Male	College	Computer Science	C	Junior	Developer	Yes
-6477516225	Europe	30	Male	College	STEM	JS	Junior	Developer	Yes
-6479187564	South America	30	Male	College	Other	JS	Junior	Developer	Yes
-6465250777	Europe	30	Male	College	Computer Science	C	Manager	Administrator	No
-6481271204	United States	30	Male	College	Other	JS	Manager	Developer	No
-6460676197	United States	30	Male	College	Other	C	Senior	Administrator	No
-6478835687	Canada	30	Male	College	Computer Science	C	Senior	Administrator	No
-6479211682	United States	30	Female	College	Other	JS	Senior	Data Scientist	Yes
-6479272064	Australia	30	Male	College	Other	JS	Senior	Data Scientist	Yes
-6480409960	United States	30	Non-Binary	College	Other	JS	Senior	Data Scientist	Yes
-6485970527	South America	30	Male	College	Computer Science	JS	Senior	Data Scientist	Yes
-6474349797	Asia	30	Male	College	STEM	Python	Senior	Data Scientist	Yes
-6479067538	Asia	30	Male	College	STEM	Python	Senior	Data Scientist	Yes
-6460966040	United States	30	Male	College	Computer Science	C	Senior	Developer	No
-6462097799	Africa	30	Male	College	Computer Science	C	Senior	Developer	No
-6466203823	Australia	30	Female	College	Other	C	Senior	Developer	No
-6470310184	Asia	30	Male	College	Other	C	Senior	Developer	No
-6479005525	United States	30	Male	College	STEM	C	Senior	Developer	No
-6479300268	United States	30	Male	College	Other	C	Senior	Developer	No
-6479205185	Canada	30	Male	High school	Other	C	Senior	Administrator	No
-6477630045	Europe	30	Male	High school	STEM	C	Senior	Developer	No
-6479261161	United States	30	Male	High school	Other	C	Senior	Developer	No
-6478837385	South America	30	Male	High school	Other	JS	Senior	Developer	No
-6464588554	Asia	30	Male	Post graduate	Other	SQL	Freelancer	Developer	No
-6477501485	Europe	30	Male	Post graduate	Other	JS	Freelancer	Developer	Yes
-6479201125	United States	30	Male	Post graduate	STEM	Python	Junior	Data Scientist	Yes
-6468086023	United States	30	Male	Post graduate	STEM	JS	Junior	Developer	Yes
-6479571810	Asia	30	Female	Post graduate	Computer Science	JS	Junior	Developer	Yes
-6475759220	Asia	30	Male	Post graduate	STEM	Python	Manager	Data Scientist	Yes
-6460688392	United States	30	Female	Post graduate	Computer Science	Python	New grad	Data Scientist	Yes
-6477705584	Europe	30	Male	Post graduate	Computer Science	C	Senior	Administrator	No
-6474343373	Asia	30	Male	Post graduate	Computer Science	C	Senior	Developer	No
-6464967482	Europe	30	Male	Post graduate	Computer Science	Python	Student	Data Scientist	Yes
-6456448151	Africa	31	Male	College	Computer Science	JS	Junior	Data Scientist	Yes
-6463631141	United States	31	Female	College	Other	JS	Junior	Data Scientist	Yes
-6463997378	United States	31	Male	College	Other	C	Junior	Developer	Yes
-6479132607	United States	31	Male	College	Other	C	Junior	Developer	Yes
-6480498288	United States	31	Male	College	Other	C	Junior	Developer	Yes
-6461126344	United States	31	Female	College	Other	JS	Junior	Developer	Yes
-6463901957	United States	31	Male	College	Other	JS	Junior	Developer	Yes
-6460859983	United States	31	Female	College	Other	Python	Junior	Developer	Yes
-6479468702	United States	31	Male	College	Other	Python	Junior	Developer	Yes
-6463459173	United States	31	Male	College	Other	Python	Manager	Data Scientist	Yes
-6479070536	Asia	31	Male	College	STEM	JS	Senior	Data Scientist	Yes
-6480824708	Asia	31	Male	College	Other	JS	Senior	Data Scientist	Yes
-6474727368	Asia	31	Male	College	Computer Science	Python	Senior	Data Scientist	Yes
-6474439029	Asia	31	Male	College	STEM	C	Senior	Developer	No
-6474471575	Asia	31	Male	College	STEM	C	Senior	Developer	No
-6464396665	Europe	31	Male	College	Other	JS	Senior	Developer	No
-6466991113	Europe	31	Female	College	Other	JS	Senior	Developer	No
-6477545341	Europe	31	Male	College	Other	JS	Senior	Developer	No
-6479935319	Asia	31	Male	College	Other	Python	Student	Data Scientist	Yes
-6486858434	Asia	31	Male	High school	STEM	Java	Senior	Developer	No
-6463544792	United States	31	Male	High school	Other	Python	Student	Data Scientist	Yes
-6477783478	Europe	31	Male	Post graduate	Other	Python	Freelancer	Data Scientist	Yes
-6477488985	Europe	31	Male	Post graduate	Other	JS	Junior	Data Scientist	Yes
-6460858161	United States	31	Female	Post graduate	Other	C	Junior	Developer	Yes
-6462421152	Canada	31	Male	Post graduate	Computer Science	C	Junior	Developer	Yes
-6486886818	Asia	31	Male	Post graduate	Computer Science	Java	Junior	Developer	Yes
-6454950246	Europe	31	Female	Post graduate	Other	Python	Senior	Data Scientist	Yes
-6465132573	United States	31	Male	Post graduate	Other	Python	Senior	Data Scientist	Yes
-6481019448	United States	31	Male	Post graduate	Other	Python	Senior	Data Scientist	Yes
-6478975692	South America	31	Male	Post graduate	Other	Java	Senior	Developer	No
-6481043874	United States	31	Male	Post graduate	Computer Science	JS	Senior	Developer	No
-6463003860	Asia	32	Male	College	Other	Python	Freelancer	Data Scientist	Yes
-6477399907	Asia	32	Male	College	STEM	C	Freelancer	Developer	Yes
-6478288684	Europe	32	Male	College	Other	C	Freelancer	Developer	Yes
-6478852825	United States	32	Male	College	Other	C	Freelancer	Developer	Yes
-6479866274	Asia	32	Female	College	Computer Science	JS	Junior	Data Scientist	Yes
-6477521914	Europe	32	Male	College	STEM	Python	Junior	Data Scientist	Yes
-6481706354	United States	32	Female	College	Other	Python	Junior	Data Scientist	Yes
-6463577122	United States	32	Female	College	Other	Python	Junior	Data Scientist	Yes
-6464109452	United States	32	Male	College	Other	Python	Junior	Data Scientist	Yes
-6463277965	Canada	32	Male	College	Other	C	Junior	Developer	Yes
-6463306554	United States	32	Male	College	Other	C	Junior	Developer	Yes
-6465924238	United States	32	Male	College	Other	C	Junior	Developer	Yes
-6467370853	Europe	32	Female	College	Other	C	Junior	Developer	Yes
-6468221880	Africa	32	Male	College	Other	C	Junior	Developer	Yes
-6470702036	United States	32	Male	College	Other	C	Junior	Developer	Yes
-6479374576	United States	32	Male	College	Other	C	Junior	Developer	Yes
-6464794001	Europe	32	Female	College	Other	JS	Junior	Developer	No
-6478833301	United States	32	Male	College	Other	C	Senior	Administrator	No
-6479014729	United States	32	Male	College	Other	C	Senior	Administrator	No
-6469125985	Asia	32	Male	College	Computer Science	JS	Senior	Data Scientist	Yes
-6475843223	Asia	32	Male	College	Computer Science	JS	Senior	Data Scientist	Yes
-6479756389	United States	32	Male	College	Computer Science	Python	Senior	Data Scientist	Yes
-6480395461	United States	32	Male	College	STEM	Python	Senior	Data Scientist	Yes
-6462075409	Europe	32	Male	College	Other	C	Senior	Developer	Yes
-6477149080	Asia	32	Female	College	Other	C	Senior	Developer	Yes
-6478008695	Africa	32	Male	College	STEM	C	Senior	Developer	Yes
-6479359517	United States	32	Male	College	Other	C	Senior	Developer	Yes
-6460766702	South America	32	Male	College	Computer Science	Java	Senior	Developer	Yes
-6487428707	Asia	32	Female	College	Computer Science	Java	Senior	Developer	Yes
-6460971068	United States	32	Male	College	Other	JS	Senior	Developer	Yes
-6463982408	United States	32	Male	College	Other	JS	Senior	Developer	Yes
-6479767261	United States	32	Male	College	Other	JS	Senior	Developer	Yes
-6477641652	Europe	32	Female	College	Other	JS	Student	Data Scientist	Yes
-6479876417	United States	32	Male	High school	STEM	JS	Manager	Developer	No
-6478918686	United States	32	Female	High school	Other	C	Senior	Administrator	No
-6464981901	Europe	32	Male	High school	Other	JS	Senior	Data Scientist	Yes
-6477487671	Europe	32	Male	High school	Other	JS	Senior	Developer	Yes
-6477715659	Europe	32	Male	High school	Computer Science	JS	Student	Data Scientist	Yes
-6477496090	Europe	32	Female	High school	Other	Python	Student	Data Scientist	Yes
-6477665101	Europe	32	Male	Post graduate	Other	JS	Junior	Data Scientist	Yes
-6480586463	United States	32	Male	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6464808211	Europe	32	Male	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6469300974	Europe	32	Female	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6473452384	Europe	32	Female	Post graduate	Other	JS	Junior	Developer	No
-6478448000	Asia	32	Female	Post graduate	Other	C	Senior	Administrator	No
-6482780142	Europe	32	Female	Post graduate	Other	C	Senior	Administrator	No
-6477387118	Middle East	32	Male	Post graduate	STEM	Python	Senior	Data Scientist	Yes
-6479132481	United States	32	Male	Post graduate	STEM	Python	Senior	Data Scientist	Yes
-6479640626	Canada	32	Male	Post graduate	Other	C	Senior	Developer	Yes
-6486806482	Asia	32	Male	Post graduate	STEM	Java	Senior	Developer	Yes
-6464750986	Europe	32	Male	Post graduate	Computer Science	JS	Senior	Developer	Yes
-6462275087	Europe	32	Male	Post graduate	STEM	Python	Student	Data Scientist	Yes
-6464003510	United States	32	Male	Post graduate	Other	Python	Student	Data Scientist	Yes
-6477499907	Europe	32	Female	Post graduate	Other	Python	Student	Data Scientist	Yes
-6461725130	Europe	33	Male	College	Other	Python	Junior	Data Scientist	Yes
-6463412645	United States	33	Male	College	Other	C	Junior	Developer	No
-6477492363	Europe	33	Male	College	Other	C	Junior	Developer	No
-6479339396	United States	33	Female	College	Other	C	Junior	Developer	No
-6481747893	United States	33	Male	College	Other	C	Junior	Developer	No
-6464022754	United States	33	Male	College	Other	JS	Junior	Developer	No
-6479461928	United States	33	Female	College	Other	JS	Junior	Developer	No
-6460717828	United States	33	Male	College	Other	Python	Junior	Developer	No
-6462661747	Africa	33	Female	College	Other	C	New grad	Developer	No
-6463363976	South America	33	Male	College	Computer Science	C	Senior	Administrator	No
-6467032708	Middle East	33	Male	College	STEM	Java	Senior	Administrator	No
-6483220358	Asia	33	Male	College	STEM	Java	Senior	Administrator	No
-6489548273	Asia	33	Male	College	STEM	Java	Senior	Administrator	No
-6480502074	Asia	33	Male	College	STEM	Python	Senior	Data Scientist	Yes
-6471026147	United States	33	Male	College	Other	Python	Senior	Data Scientist	Yes
-6479835140	United States	33	Female	College	Other	Python	Senior	Data Scientist	Yes
-6480174343	Australia	33	Male	College	Other	Python	Senior	Data Scientist	Yes
-6462080718	Europe	33	Male	College	Computer Science	C	Senior	Developer	Yes
-6463590057	United States	33	Male	College	Computer Science	C	Senior	Developer	Yes
-6464070172	United States	33	Male	College	Other	C	Senior	Developer	Yes
-6464815932	United States	33	Male	College	Other	C	Senior	Developer	Yes
-6480922676	United States	33	Male	College	Other	C	Senior	Developer	Yes
-6463287517	South America	33	Male	College	Computer Science	Java	Senior	Developer	Yes
-6477266056	Europe	33	Male	College	Other	Java	Senior	Developer	Yes
-6479250487	South America	33	Female	College	Computer Science	Java	Senior	Developer	Yes
-6464601031	United States	33	Male	High school	STEM	Python	Junior	Data Scientist	Yes
-6461742365	Asia	33	Male	High school	Other	Python	Senior	Data Scientist	Yes
-6463277454	United States	33	Male	High school	Other	C	Senior	Developer	Yes
-6479419480	United States	33	Male	High school	No degree	Python	Senior	Developer	Yes
-6477940902	Europe	33	Male	Post graduate	STEM	C	Freelancer	Developer	Yes
-6477159688	Asia	33	Male	Post graduate	STEM	JS	Junior	Data Scientist	Yes
-6477544407	Europe	33	Male	Post graduate	Other	JS	Junior	Data Scientist	Yes
-6471118278	South America	33	Male	Post graduate	Computer Science	Java	Junior	Developer	No
-6477502013	Europe	33	Female	Post graduate	Other	JS	Junior	Developer	No
-6479237078	Europe	33	Male	Post graduate	Other	JS	Junior	Developer	No
-6462085216	Europe	33	Male	Post graduate	Other	C	Senior	Administrator	No
-6469501541	Africa	33	Male	Post graduate	Computer Science	C	Senior	Administrator	No
-6466812211	Europe	33	Male	Post graduate	STEM	C	Senior	Developer	Yes
-6478839124	Asia	33	Male	Post graduate	Other	Java	Senior	Developer	Yes
-6482280757	Europe	33	Male	Post graduate	Other	Java	Senior	Developer	Yes
-6480132648	United States	33	Male	Post graduate	Other	JS	Senior	Developer	Yes
-6481253970	Asia	33	Male	Post graduate	Other	JS	Senior	Developer	Yes
-6477864295	Europe	33	Male	Post graduate	Other	JS	Student	Data Scientist	Yes
-6461264907	United States	34	Male	College	Other	Python	Junior	Data Scientist	Yes
-6463763216	United States	34	Male	College	Other	C	Junior	Developer	No
-6463826701	United States	34	Female	College	Other	C	Junior	Developer	No
-6464343141	United States	34	Male	College	Other	C	Junior	Developer	No
-6464440905	Asia	34	Male	College	Computer Science	C	Junior	Developer	No
-6467695180	Australia	34	Female	College	Other	C	Junior	Developer	No
-6456712299	Europe	34	Female	College	Other	Java	Junior	Developer	No
-6479304789	United States	34	Female	College	Other	JS	Junior	Developer	No
-6483549048	Europe	34	Male	College	Other	JS	Junior	Developer	No
-6486386671	United States	34	Male	College	Other	JS	Junior	Developer	No
-6478925710	United States	34	Female	College	Other	Python	Junior	Developer	No
-6479188270	United States	34	Male	College	Other	C	Manager	Developer	No
-6463708516	United States	34	Male	College	STEM	C	Senior	Administrator	No
-6477596804	Asia	34	Male	College	Computer Science	C	Senior	Administrator	No
-6486870157	Asia	34	Male	College	STEM	Java	Senior	Administrator	No
-6461823191	Europe	34	Male	College	Other	JS	Senior	Data Scientist	Yes
-6454827815	United States	34	Male	College	Other	JS	Senior	Data Scientist	Yes
-6478990640	United States	34	Male	College	Other	C	Senior	Developer	Yes
-6480939475	United States	34	Female	College	STEM	C	Senior	Developer	Yes
-6487803235	United States	34	Male	College	Other	C	Senior	Developer	Yes
-6481308504	Asia	34	Male	College	STEM	Java	Senior	Developer	Yes
-6477578445	Europe	34	Male	College	Other	JS	Senior	Developer	Yes
-6464872407	Middle East	34	Male	College	STEM	SQL	Senior	Developer	No
-6460817996	United States	34	Male	College	Other	JS	Student	Data Scientist	Yes
-6477562805	Europe	34	Female	College	Other	Python	Student	Data Scientist	Yes
-6461242203	United States	34	Male	High school	Other	Python	Junior	Data Scientist	Yes
-6477597938	Asia	34	Male	High school	Other	JS	Junior	Developer	No
-6461744503	Asia	34	Male	High school	Other	Python	New grad	Data Scientist	Yes
-6478960962	United States	34	Female	High school	Other	C	Senior	Developer	Yes
-6478832404	South America	34	Male	High school	Other	Java	Senior	Developer	Yes
-6479529701	United States	34	Male	High school	Other	JS	Senior	Developer	Yes
-6480398434	South America	34	Male	High school	Computer Science	JS	Senior	Developer	Yes
-6478278275	Europe	34	Male	Post graduate	STEM	C	Junior	Developer	No
-6477684979	Europe	34	Male	Post graduate	Other	Java	Junior	Developer	No
-6477503307	Asia	34	Male	Post graduate	STEM	JS	Junior	Developer	No
-6478944579	United States	34	Female	Post graduate	STEM	Python	Junior	Developer	No
-6480657500	United States	34	Male	Post graduate	Computer Science	JS	Manager	Data Scientist	Yes
-6478307171	Europe	34	Male	Post graduate	STEM	C	Senior	Administrator	No
-6479078868	United States	34	Male	Post graduate	Other	C	Senior	Administrator	No
-6479625896	Asia	34	Female	Post graduate	Other	JS	Senior	Data Scientist	Yes
-6487396376	United States	34	Female	Post graduate	Other	Python	Senior	Data Scientist	Yes
-6479648269	United States	34	Male	Post graduate	Other	C	Senior	Developer	Yes
-6477511189	Europe	34	Male	Post graduate	Other	JS	Senior	Developer	Yes
-6458670041	United States	35	Male	College	Other	C	Manager	Administrator	Yes
-6479355965	United States	35	Female	College	Other	JS	Manager	Data Scientist	Yes
-6482012939	Canada	35	Female	College	Other	JS	Manager	Data Scientist	Yes
-6481402506	Asia	35	Male	College	Other	JS	Manager	Developer	No
-6460160689	United States	35	Male	College	Other	Python	Senior	Data Scientist	Yes
-6464415234	Europe	35	Male	High school	STEM	C	Junior	Developer	No
-6477132001	Asia	35	Male	High school	Other	JS	Manager	Data Scientist	Yes
-6489068428	United States	35	Male	High school	Other	C	Manager	Developer	No
-6462125787	Europe	35	Male	Post graduate	Other	C	Senior	Developer	Yes
-6464810665	Europe	35	Male	Post graduate	STEM	C	Senior	Developer	Yes
-6479002093	Europe	36	Male	College	Other	C	Senior	Administrator	Yes
-6477522918	Europe	36	Male	College	Computer Science	Python	Senior	Data Scientist	Yes
-6464843939	Middle East	36	Male	College	STEM	C	Senior	Developer	Yes
-6479069986	United States	36	Male	College	Other	C	Senior	Developer	Yes
-6479158904	United States	36	Female	College	Other	JS	Senior	Developer	Yes
-6460675541	United States	36	Male	High school	Computer Science	C	Senior	Administrator	No
-6465719063	United States	36	Female	Post graduate	Other	JS	Junior	Developer	No
-6462086540	Europe	36	Male	Post graduate	STEM	C	Manager	Administrator	Yes
-6464592160	Europe	36	Male	Post graduate	Computer Science	Java	Manager	Administrator	Yes
-6480125026	Europe	36	Male	Post graduate	STEM	Python	Senior	Data Scientist	Yes
-6481593589	United States	36	Male	Post graduate	STEM	Python	Senior	Data Scientist	Yes
-6463296831	United States	36	Male	Post graduate	Other	C	Senior	Developer	Yes
-6479399630	United States	37	Male	College	Other	JS	Junior	Data Scientist	Yes
-6479094229	United States	37	Male	College	Other	JS	Junior	Developer	No
-6479014088	United States	37	Male	College	Other	Java	Manager	Administrator	Yes
-6479142594	United States	37	Male	College	Other	Java	Manager	Developer	No
-6463600435	South America	37	Male	College	Other	JS	Manager	Developer	No
-6479492306	United States	37	Male	College	Computer Science	Python	New grad	Data Scientist	Yes
-6479474242	Canada	37	Male	College	Other	C	Senior	Developer	Yes
-6479777018	United States	37	Male	College	Other	Java	Senior	Developer	Yes
-6480710934	United States	37	Male	College	Other	Java	Senior	Developer	Yes
-6478810488	United States	37	Male	College	Other	JS	Senior	Developer	Yes
-6479657815	Asia	37	Male	College	STEM	JS	Senior	Developer	Yes
-6479107823	United States	37	Female	High school	Other	Java	Manager	Administrator	No
-6458996031	Europe	37	Male	High school	Other	Python	Senior	Data Scientist	Yes
-6478822567	United States	37	Female	Post graduate	Other	Java	Senior	Administrator	Yes
-6478946736	United States	37	Male	Post graduate	Computer Science	Java	Senior	Administrator	Yes
-6460806788	United States	37	Male	Post graduate	Other	C	Senior	Developer	Yes
-6464777602	Europe	37	Male	Post graduate	Other	C	Senior	Developer	Yes
-6480053755	Europe	38	Male	College	Other	JS	Junior	Developer	No
-6464763420	Europe	38	Female	College	STEM	Python	Junior	Developer	No
-6479309774	United States	38	Female	College	Other	Python	Manager	Data Scientist	Yes
-6475924128	Europe	38	Male	College	STEM	JS	Senior	Data Scientist	Yes
-6487440116	United States	38	Male	College	Other	Java	Senior	Developer	Yes
-6463315083	United States	38	Male	High school	Other	SQL	Manager	Developer	No
-6464069861	United States	38	Male	High school	No degree	Python	Student	Data Scientist	Yes
-6460780319	South America	38	Male	Post graduate	Other	Java	Freelancer	Developer	Yes
-6460744235	United States	38	Male	Post graduate	Other	Java	Junior	Developer	No
-6479079940	United States	38	Male	Post graduate	Other	Python	Junior	Developer	No
-6479670020	South America	38	Male	Post graduate	Other	C	Senior	Developer	Yes
-6489122701	Asia	39	Male	College	Other	C	Senior	Administrator	Yes
-6465860562	Europe	39	Male	College	Other	C	Senior	Developer	Yes
-6463580134	United States	39	Male	College	Other	Java	Senior	Developer	Yes
-6479041248	United States	39	Male	College	Other	JS	Senior	Developer	Yes
-6477509990	Middle East	39	Male	College	Other	JS	Student	Data Scientist	Yes
-6479257225	United States	39	Male	High school	Computer Science	Java	Senior	Developer	Yes
-6463684566	United States	39	Male	High school	Other	JS	Senior	Developer	Yes
-6463816651	United States	39	Male	Post graduate	Other	Python	Junior	Data Scientist	Yes
-6478382701	Africa	39	Male	Post graduate	STEM	C	Manager	Administrator	Yes
-6478024650	Asia	39	Male	Post graduate	Other	Java	Manager	Developer	No
-6460676935	United States	39	Male	Post graduate	Other	Java	Senior	Administrator	Yes
-6464701003	Europe	39	Male	Post graduate	STEM	JS	Senior	Developer	Yes
-6463674121	United States	39	Female	Post graduate	Computer Science	Python	Student	Data Scientist	Yes
-6461829537	Africa	40	Male	College	Other	Python	Freelancer	Data Scientist	Yes
-6478954561	United States	40	Male	College	STEM	Java	Manager	Developer	No
-6463277260	Canada	40	Male	College	Computer Science	C	Senior	Administrator	Yes
-6463587780	United States	40	Female	College	Other	Java	Senior	Administrator	Yes
-6465305465	Europe	40	Male	College	Other	Java	Senior	Administrator	Yes
-6469826062	Europe	40	Female	College	Other	JS	Senior	Developer	Yes
-6460999882	United States	40	Male	College	Other	SQL	Senior	Developer	No
-6463276913	United States	40	Non-Binary	High school	Other	Java	Senior	Administrator	No
-6478930709	United States	40	Male	High school	Other	Java	Senior	Administrator	No
-6479064307	Canada	40	Male	High school	Other	Python	Senior	Administrator	No
-6462070224	Africa	40	Male	High school	Other	Python	Senior	Data Scientist	Yes
-6462911223	United States	40	Male	Post graduate	Other	Java	Senior	Administrator	Yes
-6482543881	Canada	40	Male	Post graduate	Other	Java	Senior	Developer	Yes
-6463568916	Canada	40	Male	Post graduate	Other	Python	Student	Data Scientist	Yes
-6464394033	Australia	41	Male	College	Other	C	Freelancer	Developer	Yes
-6479051254	United States	41	Female	College	Other	SQL	Freelancer	Developer	No
-6454810970	United States	41	Male	College	Other	Java	Junior	Developer	No
-6464746894	Europe	41	Female	College	Other	JS	Junior	Developer	No
-6479547593	United States	41	Male	College	Other	JS	Manager	Data Scientist	Yes
-6463462475	United States	41	Male	College	Other	Java	Senior	Administrator	Yes
-6479288291	United States	41	Male	College	Other	C	Senior	Developer	Yes
-6458830264	Australia	41	Male	College	Computer Science	Java	Senior	Developer	Yes
-6462067134	Middle East	41	Male	College	Other	SQL	Senior	Developer	No
-6460867913	United States	41	Male	High school	Other	JS	Senior	Developer	Yes
-6467519969	Europe	41	Male	Post graduate	Other	Java	Manager	Developer	No
-6465604613	Europe	41	Male	Post graduate	Other	C	Senior	Administrator	Yes
-6478875361	United States	41	Male	Post graduate	Other	Java	Senior	Administrator	Yes
-6479222693	United States	41	Male	Post graduate	Other	Java	Senior	Administrator	Yes
-6466774527	Europe	41	Male	Post graduate	STEM	JS	Senior	Developer	Yes
-6477484173	Middle East	41	Male	Post graduate	STEM	JS	Student	Data Scientist	Yes
-6478901403	Europe	42	Male	College	Other	JS	Junior	Developer	No
-6461388185	United States	42	Female	College	Other	SQL	Junior	Developer	No
-6463857006	United States	42	Female	College	Other	C	Senior	Administrator	Yes
-6464272003	United States	42	Male	High school	Other	Java	Junior	Developer	No
-6478991816	United States	42	Male	High school	Other	Java	Junior	Developer	No
-6462432226	Europe	42	Male	High school	No degree	SQL	Junior	Developer	No
-6454937503	United States	42	Male	High school	Other	SQL	Manager	Developer	No
-6488716055	United States	42	Male	Post graduate	Other	Java	Junior	Developer	No
-6463585956	United States	42	Male	Post graduate	Other	C	Manager	Administrator	Yes
-6479370330	United States	42	Male	Post graduate	STEM	C	Senior	Administrator	Yes
-6464919715	Europe	42	Male	Post graduate	Other	Java	Senior	Administrator	Yes
-6462698370	United States	42	Female	Post graduate	Other	JS	Senior	Developer	Yes
-6477148335	Asia	42	Female	Post graduate	Computer Science	Python	Senior	Developer	Yes
-6479910096	United States	42	Male	Post graduate	Other	JS	Student	Data Scientist	Yes
-6465124560	Africa	43	Male	College	Other	SQL	Freelancer	Developer	No
-6461764187	Asia	43	Male	College	Other	Python	Manager	Data Scientist	Yes
-6483085668	United States	43	Male	College	Other	C	Manager	Developer	No
-6480753951	United States	43	Male	College	Other	JS	Manager	Developer	No
-6471215090	United States	43	Male	College	Computer Science	C	Senior	Administrator	Yes
-6474052428	United States	43	Male	College	Other	C	Senior	Administrator	Yes
-6467624962	United States	43	Male	College	STEM	JS	Senior	Developer	Yes
-6486619200	Canada	43	Male	College	Computer Science	JS	Senior	Developer	Yes
-6477501979	Africa	43	Female	High school	Other	SQL	Freelancer	Developer	No
-6462756707	Europe	43	Male	High school	Other	Python	Senior	Data Scientist	Yes
-6484846192	Canada	43	Female	Post graduate	Other	C	Manager	Administrator	Yes
-6463342452	United States	43	Female	Post graduate	Other	JS	Student	Data Scientist	Yes
-6478964615	Europe	44	Male	College	Other	JS	Junior	Developer	No
-6480329226	Asia	44	Female	College	STEM	Java	Senior	Developer	Yes
-6464390770	United States	44	Female	College	STEM	JS	Senior	Developer	Yes
-6479386968	United States	44	Male	College	Other	SQL	Senior	Developer	No
-6478970216	United States	44	Male	High school	Computer Science	SQL	Senior	Developer	No
-6479010440	United States	44	Male	Post graduate	Other	JS	Junior	Developer	No
-6480264396	Australia	44	Male	Post graduate	Other	C	Senior	Developer	Yes
-6464804443	Europe	44	Female	Post graduate	Other	JS	Senior	Developer	Yes
-6478993506	Asia	44	Male	Post graduate	Other	JS	Student	Data Scientist	Yes
-6463368806	Canada	45	Male	College	Computer Science	Java	Senior	Developer	Yes
-6456208240	Europe	46	Male	College	Computer Science	C	Freelancer	Administrator	Yes
-6463533761	Canada	46	Male	College	Other	Java	Senior	Developer	Yes
-6462191461	Europe	46	Male	Post graduate	STEM	C	Manager	Administrator	Yes
-6482058059	United States	47	Male	College	Other	SQL	Senior	Developer	No
-6461431081	United States	47	Male	Post graduate	STEM	Python	Manager	Data Scientist	Yes
-6460723583	United States	48	Female	College	Computer Science	Python	Junior	Data Scientist	Yes
-6480818381	South America	48	Male	Post graduate	Other	SQL	Freelancer	Developer	No
-6464882724	Middle East	48	Male	Post graduate	Computer Science	C	Senior	Administrator	Yes
-6463216001	United States	50	Male	College	Other	C	Manager	Administrator	Yes
-6486619199	Europe	50	Male	College	Other	Java	Manager	Developer	No
-6464787664	Europe	50	Male	High school	Other	JS	Senior	Developer	Yes
-6466284869	Australia	50	Female	Post graduate	Computer Science	C	Senior	Administrator	Yes
-6479384361	United States	51	Male	College	STEM	SQL	Manager	Developer	No
-6463619534	United States	51	Male	College	Other	C	Senior	Administrator	Yes
-6465197130	Middle East	51	Male	High school	STEM	Java	Manager	Developer	No
-6463449880	United States	51	Male	Post graduate	Other	C	Senior	Developer	Yes
-6454969429	South America	52	Male	College	Other	C	Freelancer	Administrator	Yes
-6461125670	United States	52	Female	College	Other	JS	Manager	Data Scientist	Yes
-6465485953	Europe	52	Male	College	STEM	JS	Senior	Developer	Yes
-6481920485	Canada	52	Male	College	Other	SQL	Senior	Developer	No
-6460833759	United States	52	Male	High school	Other	Python	Senior	Data Scientist	Yes
-6464231118	South America	52	Male	Post graduate	Computer Science	SQL	Senior	Developer	No
-6481804069	United States	53	Male	College	Other	JS	Manager	Data Scientist	Yes
-6479536166	United States	53	Male	College	Computer Science	Python	Senior	Data Scientist	Yes
-6478731098	Australia	53	Male	High school	Other	C	Manager	Administrator	No
-6482426156	Europe	53	Male	High school	Other	C	Senior	Administrator	No
-6464074283	United States	53	Male	Post graduate	Computer Science	JS	Student	Data Scientist	Yes
-6461101076	United States	54	Male	High school	Other	JS	Senior	Developer	Yes
-6463577431	United States	57	Male	College	Other	C	Senior	Administrator	Yes
-6478904183	United States	61	Male	College	Computer Science	SQL	Senior	Developer	No
-6465013058	Europe	61	Male	Post graduate	Other	SQL	Senior	Developer	No
-6479143824	United States	64	Male	College	Other	C	Manager	Administrator	Yes
+origin,age,gender,education,degree,language,job_level,current_role,hired
+asia,12,male,high_school,stem,c,student,student,no
+asia,12,male,high_school,other,c,student,student,no
+asia,12,male,high_school,other,c,student,student,no
+canada,12,male,high_school,stem,python,student,student,no
+asia,13,male,high_school,stem,c,student,student,no
+asia,14,male,high_school,other,c,student,student,no
+asia,14,male,high_school,stem,c,student,student,no
+united_states,14,male,high_school,computer_science,python,student,student,no
+africa,14,male,high_school,other,python,student,student,no
+europe,14,male,high_school,stem,python,student,student,no
+europe,14,female,high_school,other,python,student,student,no
+europe,14,male,high_school,other,sql,student,student,no
+europe,15,male,high_school,stem,c,student,student,no
+united_states,15,male,high_school,other,c,student,student,no
+asia,15,male,high_school,stem,c,student,student,no
+united_states,15,male,high_school,computer_science,c,student,student,no
+asia,15,female,high_school,computer_science,c,student,student,no
+asia,15,female,high_school,stem,c,student,student,no
+asia,15,male,high_school,stem,c,student,student,no
+asia,15,male,high_school,stem,c,student,student,no
+asia,15,male,high_school,computer_science,c,student,student,no
+asia,15,male,high_school,other,java,student,student,no
+asia,15,male,high_school,other,python,student,student,no
+united_states,15,female,high_school,other,python,student,student,no
+asia,16,male,high_school,stem,c,student,student,no
+asia,16,male,high_school,stem,c,student,student,no
+asia,16,male,high_school,stem,c,student,student,no
+united_states,16,male,high_school,other,c,student,student,no
+asia,16,female,high_school,stem,c,student,student,no
+asia,16,male,high_school,stem,c,student,student,no
+asia,16,male,high_school,computer_science,c,student,student,no
+europe,16,male,high_school,other,java,student,student,no
+africa,17,male,high_school,stem,c,student,student,no
+australia,17,female,high_school,other,c,student,student,no
+asia,17,male,high_school,other,c,student,student,no
+asia,17,male,high_school,computer_science,c,student,student,no
+asia,17,male,high_school,other,c,student,student,no
+africa,17,female,high_school,other,js,student,student,no
+middle_east,18,male,college,stem,c,student,student,yes
+united_states,18,male,college,computer_science,c,student,student,yes
+united_states,18,male,college,other,c,student,student,no
+united_states,18,male,college,other,c,student,student,no
+europe,18,male,college,computer_science,c,student,student,yes
+europe,18,male,college,computer_science,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,other,c,student,student,no
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,computer_science,c,student,student,yes
+europe,18,male,college,computer_science,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,female,college,other,c,student,student,no
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,computer_science,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+asia,18,male,college,stem,c,student,student,yes
+africa,18,male,college,computer_science,c,student,student,yes
+asia,18,male,college,computer_science,c,student,student,yes
+asia,18,male,college,stem,js,student,student,yes
+europe,18,male,college,other,python,student,student,no
+united_states,18,male,college,computer_science,python,student,student,yes
+asia,18,male,college,stem,python,student,student,yes
+asia,18,male,college,computer_science,sql,student,student,no
+asia,18,male,college,stem,sql,student,student,no
+asia,18,male,high_school,computer_science,c,student,student,yes
+asia,18,female,high_school,computer_science,c,student,student,yes
+asia,18,female,high_school,computer_science,c,student,student,yes
+asia,18,male,high_school,computer_science,c,student,student,yes
+asia,18,male,high_school,computer_science,c,student,student,yes
+asia,18,male,high_school,computer_science,c,student,student,yes
+asia,18,non-binary,high_school,other,c,student,student,no
+europe,18,female,high_school,stem,c,student,student,yes
+united_states,18,female,high_school,other,c,student,student,no
+united_states,18,female,high_school,other,c,student,student,no
+asia,18,male,high_school,computer_science,c,student,student,yes
+africa,18,female,high_school,stem,c,student,student,yes
+asia,18,male,high_school,computer_science,c,student,student,yes
+asia,18,male,high_school,computer_science,java,student,student,yes
+asia,18,male,high_school,stem,python,student,student,yes
+europe,18,male,high_school,computer_science,sql,student,student,no
+united_states,18,male,high_school,other,sql,student,student,no
+united_states,18,male,post_graduate,computer_science,c,student,student,yes
+europe,18,female,post_graduate,computer_science,c,student,student,yes
+europe,18,male,post_graduate,other,c,student,student,no
+asia,18,male,post_graduate,stem,c,student,student,yes
+europe,18,male,post_graduate,stem,c,student,student,yes
+asia,18,male,post_graduate,other,c,student,student,no
+canada,18,male,post_graduate,other,c,student,student,no
+asia,18,female,post_graduate,other,c,student,student,no
+asia,18,female,post_graduate,computer_science,c,student,student,yes
+asia,18,female,post_graduate,computer_science,c,student,student,yes
+asia,18,male,post_graduate,computer_science,c,student,student,yes
+europe,18,male,post_graduate,computer_science,java,student,student,yes
+asia,18,male,post_graduate,computer_science,js,student,student,yes
+asia,18,male,post_graduate,stem,js,student,student,yes
+asia,18,male,post_graduate,computer_science,python,student,student,yes
+africa,18,male,post_graduate,computer_science,python,student,student,yes
+europe,18,male,post_graduate,other,python,student,student,no
+united_states,19,male,college,computer_science,c,student,student,yes
+australia,19,female,college,computer_science,c,student,student,yes
+united_states,19,male,college,other,c,student,student,no
+europe,19,male,college,other,c,student,student,no
+asia,19,male,college,other,c,student,student,no
+europe,19,male,college,computer_science,c,student,student,yes
+europe,19,male,college,stem,c,student,student,yes
+europe,19,female,college,stem,c,student,student,yes
+asia,19,female,college,computer_science,c,student,student,yes
+asia,19,male,college,computer_science,c,student,student,yes
+asia,19,non-binary,college,computer_science,c,student,student,yes
+canada,19,male,college,other,c,student,student,no
+asia,19,male,college,computer_science,c,student,student,yes
+asia,19,female,college,stem,c,student,student,yes
+asia,19,male,college,stem,c,student,student,yes
+asia,19,male,college,stem,c,student,student,yes
+united_states,19,male,college,computer_science,c,student,student,yes
+asia,19,male,college,computer_science,c,student,student,yes
+asia,19,male,college,stem,c,student,student,yes
+asia,19,male,college,other,c,student,student,no
+asia,19,male,college,stem,c,student,student,yes
+asia,19,male,college,stem,c,student,student,yes
+asia,19,male,college,computer_science,c,student,student,yes
+asia,19,male,college,stem,java,student,student,yes
+asia,19,male,college,computer_science,java,student,student,yes
+middle_east,19,female,college,computer_science,js,student,student,yes
+asia,19,male,college,stem,python,student,student,yes
+europe,19,male,college,computer_science,sql,student,student,no
+united_states,19,female,high_school,computer_science,c,student,student,yes
+asia,19,female,high_school,other,c,student,student,no
+europe,19,male,high_school,other,c,student,student,no
+canada,19,male,high_school,computer_science,c,student,student,yes
+europe,19,male,high_school,other,c,student,student,no
+united_states,19,female,high_school,other,c,student,student,no
+asia,19,male,high_school,other,c,student,student,no
+europe,19,male,high_school,computer_science,java,student,student,yes
+europe,19,male,high_school,stem,js,student,student,yes
+south_america,19,male,high_school,other,python,student,student,no
+asia,19,male,post_graduate,stem,c,student,student,yes
+europe,19,male,post_graduate,other,c,student,student,no
+asia,19,female,post_graduate,stem,c,student,student,yes
+asia,19,male,post_graduate,computer_science,c,student,student,yes
+asia,19,male,post_graduate,computer_science,c,student,student,yes
+asia,19,male,post_graduate,computer_science,js,student,student,yes
+united_states,20,male,college,stem,c,student,student,yes
+africa,20,male,college,computer_science,c,student,student,yes
+united_states,20,male,college,computer_science,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,computer_science,c,student,student,yes
+asia,20,male,college,computer_science,c,student,student,yes
+europe,20,male,college,stem,c,student,student,yes
+asia,20,male,college,other,c,student,student,no
+europe,20,male,college,stem,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+united_states,20,male,college,computer_science,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,female,college,stem,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,female,college,computer_science,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+united_states,20,male,college,other,c,student,student,no
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,computer_science,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,other,c,student,student,no
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,stem,c,student,student,yes
+asia,20,male,college,stem,java,student,student,yes
+europe,20,male,college,other,java,student,student,no
+united_states,20,male,college,other,js,student,student,no
+asia,20,male,college,stem,js,student,student,yes
+asia,20,male,college,computer_science,js,student,student,yes
+asia,20,female,college,stem,python,student,student,yes
+united_states,20,male,college,other,sql,student,student,no
+united_states,20,male,high_school,other,c,student,student,no
+asia,20,male,high_school,stem,c,student,student,yes
+africa,20,male,high_school,other,c,student,student,no
+asia,20,male,high_school,stem,c,student,student,yes
+asia,20,male,high_school,stem,c,student,student,yes
+canada,20,male,high_school,other,c,student,student,no
+asia,20,male,high_school,stem,c,student,student,yes
+europe,20,male,post_graduate,computer_science,c,student,student,yes
+europe,20,male,post_graduate,other,c,student,student,no
+europe,20,male,post_graduate,other,c,student,student,no
+europe,20,male,post_graduate,stem,c,student,student,yes
+asia,20,male,post_graduate,computer_science,c,student,student,yes
+asia,20,male,post_graduate,stem,c,student,student,yes
+united_states,20,female,post_graduate,other,c,student,student,no
+asia,20,male,post_graduate,stem,c,student,student,yes
+asia,20,male,post_graduate,stem,c,student,student,yes
+asia,20,male,post_graduate,other,c,student,student,no
+asia,20,male,post_graduate,other,c,student,student,no
+united_states,21,male,college,computer_science,c,student,student,yes
+asia,21,male,college,computer_science,c,student,student,yes
+united_states,21,male,college,computer_science,c,student,student,yes
+canada,21,male,college,stem,c,student,student,yes
+asia,21,male,college,stem,c,student,student,yes
+asia,21,male,college,stem,c,student,student,yes
+asia,21,male,college,other,c,student,student,no
+asia,21,male,college,stem,c,student,student,yes
+united_states,21,male,college,other,c,student,student,no
+asia,21,male,college,stem,c,student,student,yes
+africa,21,male,college,computer_science,c,student,student,yes
+asia,21,male,college,stem,c,student,student,yes
+asia,21,male,college,computer_science,c,student,student,yes
+asia,21,male,college,stem,c,student,student,yes
+asia,21,male,college,stem,c,student,student,yes
+asia,21,female,college,stem,c,student,student,yes
+asia,21,male,college,stem,c,student,student,yes
+asia,21,female,college,stem,c,student,student,yes
+south_america,21,female,college,other,java,student,student,no
+europe,21,male,college,computer_science,java,student,student,yes
+europe,21,male,college,other,java,student,student,no
+asia,21,female,college,computer_science,js,student,student,yes
+asia,21,male,college,stem,js,student,student,yes
+asia,21,female,college,computer_science,js,student,student,yes
+asia,21,male,college,other,python,student,student,no
+asia,21,male,college,stem,python,student,student,yes
+africa,21,male,college,stem,sql,student,student,no
+united_states,21,male,college,computer_science,sql,student,student,no
+asia,21,female,college,stem,sql,student,student,no
+united_states,21,male,high_school,computer_science,c,student,student,yes
+asia,21,male,high_school,stem,c,student,student,yes
+united_states,21,male,high_school,computer_science,c,student,student,yes
+europe,21,male,high_school,other,c,student,student,no
+asia,21,male,high_school,computer_science,c,student,student,yes
+asia,21,male,high_school,computer_science,c,student,student,yes
+canada,21,male,high_school,other,c,student,student,no
+united_states,21,female,high_school,other,c,student,student,no
+asia,21,male,high_school,computer_science,c,student,student,yes
+asia,21,female,high_school,computer_science,c,student,student,yes
+asia,21,male,high_school,stem,c,student,student,yes
+united_states,21,non-binary,high_school,other,js,student,student,no
+africa,21,female,high_school,computer_science,sql,student,student,no
+united_states,21,male,post_graduate,computer_science,c,student,student,yes
+europe,21,male,post_graduate,computer_science,c,student,student,yes
+asia,21,male,post_graduate,computer_science,c,student,student,yes
+asia,21,male,post_graduate,computer_science,c,student,student,yes
+asia,21,male,post_graduate,stem,c,student,student,yes
+asia,21,male,post_graduate,stem,c,student,student,yes
+asia,21,female,post_graduate,stem,c,student,student,yes
+asia,21,male,post_graduate,computer_science,c,student,student,yes
+europe,21,male,post_graduate,stem,c,student,student,yes
+asia,21,female,post_graduate,computer_science,java,student,student,yes
+asia,21,male,post_graduate,computer_science,python,student,student,yes
+asia,22,male,college,stem,c,junior,student,yes
+united_states,22,female,college,computer_science,c,student,student,yes
+asia,22,male,college,computer_science,c,student,student,yes
+europe,22,male,college,other,c,student,student,no
+asia,22,male,college,stem,c,student,student,yes
+africa,22,male,college,computer_science,c,student,student,yes
+asia,22,male,college,stem,c,student,student,yes
+asia,22,male,college,computer_science,c,student,student,yes
+asia,22,male,college,stem,c,student,student,yes
+asia,22,female,college,stem,c,student,student,yes
+europe,22,male,college,other,c,student,student,no
+middle_east,22,female,college,computer_science,c,student,student,yes
+united_states,22,male,college,other,c,student,student,no
+united_states,22,male,college,other,c,student,student,no
+asia,22,male,college,stem,c,student,student,yes
+asia,22,female,college,other,c,student,student,no
+asia,22,male,college,stem,c,student,student,yes
+asia,22,female,college,stem,c,student,student,yes
+asia,22,female,college,stem,c,student,student,yes
+asia,22,female,college,stem,c,student,student,yes
+canada,22,female,college,other,c,student,student,no
+asia,22,male,college,computer_science,c,student,student,yes
+asia,22,male,college,stem,c,student,student,yes
+asia,22,male,college,computer_science,c,student,student,yes
+asia,22,male,college,computer_science,c,student,student,yes
+asia,22,male,college,stem,c,student,student,yes
+asia,22,male,college,computer_science,java,student,student,yes
+europe,22,male,college,computer_science,js,student,student,yes
+europe,22,female,college,other,js,student,student,no
+europe,22,female,college,computer_science,js,student,student,yes
+europe,22,male,college,other,js,student,student,no
+united_states,22,male,college,other,js,student,student,no
+asia,22,male,college,stem,js,student,student,yes
+united_states,22,male,college,other,python,student,student,no
+united_states,22,female,college,other,python,student,student,no
+united_states,22,female,college,other,sql,student,student,no
+middle_east,22,male,high_school,computer_science,c,student,student,yes
+europe,22,male,high_school,no_degree,c,student,student,no
+europe,22,male,high_school,stem,c,student,student,yes
+united_states,22,male,high_school,computer_science,c,student,student,yes
+asia,22,male,high_school,stem,c,student,student,yes
+asia,22,male,high_school,computer_science,c,student,student,yes
+asia,22,male,high_school,stem,c,student,student,yes
+asia,22,male,high_school,stem,c,student,student,yes
+asia,22,male,high_school,stem,c,student,student,yes
+asia,22,male,high_school,computer_science,java,student,student,yes
+europe,22,male,high_school,other,js,student,student,no
+asia,22,male,high_school,stem,js,student,student,yes
+united_states,22,female,high_school,stem,python,student,student,yes
+asia,22,male,high_school,computer_science,sql,student,student,no
+africa,22,female,high_school,other,sql,student,student,no
+united_states,22,female,high_school,computer_science,sql,student,student,no
+europe,22,male,post_graduate,other,c,student,student,no
+asia,22,female,post_graduate,computer_science,c,student,student,yes
+united_states,22,male,post_graduate,computer_science,c,student,student,yes
+middle_east,22,male,post_graduate,computer_science,c,student,student,yes
+asia,22,male,post_graduate,other,c,student,student,no
+asia,22,male,post_graduate,stem,c,student,student,yes
+africa,22,male,post_graduate,computer_science,c,student,student,yes
+asia,22,female,post_graduate,computer_science,c,student,student,yes
+asia,22,male,post_graduate,computer_science,java,student,student,yes
+asia,22,female,post_graduate,other,python,student,student,no
+united_states,22,male,post_graduate,other,sql,student,student,no
+canada,22,male,post_graduate,other,sql,student,student,no
+africa,23,male,college,stem,js,junior,developer,yes
+united_states,23,male,college,computer_science,js,junior,developer,yes
+asia,23,male,college,stem,js,junior,developer,yes
+africa,23,male,college,computer_science,sql,junior,developer,no
+united_states,23,non-binary,college,computer_science,sql,junior,developer,no
+united_states,23,male,college,other,c,junior,student,no
+asia,23,female,college,computer_science,c,junior,student,yes
+asia,23,male,college,stem,c,junior,student,yes
+middle_east,23,male,college,computer_science,python,new_grad,data_scientist,yes
+canada,23,male,college,computer_science,python,new_grad,data_scientist,yes
+europe,23,female,college,computer_science,js,student,data_scientist,yes
+asia,23,female,college,computer_science,python,student,data_scientist,yes
+europe,23,male,college,computer_science,python,student,data_scientist,yes
+europe,23,male,college,stem,python,student,data_scientist,yes
+asia,23,male,college,stem,python,student,data_scientist,yes
+asia,23,male,college,other,c,student,student,no
+united_states,23,female,college,computer_science,java,student,student,yes
+asia,23,male,college,stem,java,student,student,yes
+europe,23,male,high_school,stem,java,junior,developer,yes
+australia,23,male,high_school,no_degree,c,junior,student,no
+asia,23,male,high_school,stem,js,new_grad,developer,yes
+africa,23,male,high_school,computer_science,python,student,data_scientist,yes
+canada,23,female,high_school,stem,python,student,data_scientist,yes
+canada,23,male,high_school,other,python,student,data_scientist,yes
+asia,23,female,high_school,computer_science,c,student,student,yes
+asia,23,male,high_school,computer_science,c,student,student,yes
+united_states,23,male,high_school,stem,c,student,student,yes
+asia,23,male,high_school,stem,c,student,student,yes
+canada,23,male,high_school,stem,java,student,student,yes
+asia,23,female,post_graduate,stem,python,junior,data_scientist,yes
+asia,23,male,post_graduate,stem,python,junior,developer,yes
+europe,23,male,post_graduate,computer_science,sql,junior,developer,no
+united_states,23,female,post_graduate,computer_science,python,student,data_scientist,yes
+united_states,23,female,post_graduate,other,python,student,data_scientist,yes
+united_states,23,male,post_graduate,stem,python,student,data_scientist,yes
+asia,23,male,post_graduate,other,c,student,student,no
+united_states,23,male,post_graduate,stem,java,student,student,yes
+asia,23,male,post_graduate,stem,java,student,student,yes
+asia,23,male,post_graduate,stem,java,student,student,yes
+asia,24,male,college,stem,js,junior,data_scientist,yes
+asia,24,male,college,computer_science,js,junior,data_scientist,yes
+united_states,24,male,college,other,python,junior,data_scientist,yes
+asia,24,male,college,stem,python,junior,data_scientist,yes
+europe,24,male,college,other,python,junior,data_scientist,yes
+africa,24,male,college,other,python,junior,data_scientist,yes
+asia,24,female,college,stem,python,junior,data_scientist,yes
+asia,24,male,college,stem,python,junior,data_scientist,yes
+asia,24,male,college,computer_science,python,junior,data_scientist,yes
+asia,24,male,college,stem,c,junior,developer,yes
+asia,24,male,college,stem,js,junior,developer,yes
+united_states,24,female,college,other,js,junior,developer,yes
+asia,24,male,college,other,sql,junior,developer,yes
+africa,24,male,college,stem,js,new_grad,data_scientist,yes
+united_states,24,male,college,other,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,computer_science,python,new_grad,data_scientist,yes
+asia,24,female,college,computer_science,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+canada,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,female,college,computer_science,python,new_grad,data_scientist,yes
+asia,24,male,college,computer_science,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,computer_science,python,new_grad,data_scientist,yes
+asia,24,male,college,other,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,female,college,stem,python,new_grad,data_scientist,yes
+united_states,24,male,college,other,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,python,new_grad,data_scientist,yes
+asia,24,male,college,stem,js,new_grad,developer,yes
+europe,24,non-binary,college,other,python,senior,data_scientist,yes
+middle_east,24,male,college,computer_science,js,student,data_scientist,yes
+europe,24,female,college,computer_science,js,student,data_scientist,yes
+asia,24,male,college,stem,python,student,data_scientist,yes
+africa,24,male,high_school,computer_science,js,freelancer,developer,yes
+africa,24,male,high_school,other,python,junior,developer,yes
+asia,24,male,high_school,computer_science,python,manager,developer,no
+asia,24,female,high_school,computer_science,js,student,data_scientist,yes
+australia,24,male,high_school,computer_science,js,student,data_scientist,yes
+asia,24,male,high_school,computer_science,js,student,data_scientist,yes
+asia,24,male,high_school,computer_science,js,student,data_scientist,yes
+asia,24,male,high_school,other,python,student,data_scientist,yes
+asia,24,male,post_graduate,computer_science,c,junior,developer,yes
+asia,24,male,post_graduate,computer_science,c,junior,developer,yes
+south_america,24,male,post_graduate,other,python,manager,data_scientist,yes
+asia,24,male,post_graduate,computer_science,python,new_grad,data_scientist,yes
+europe,24,male,post_graduate,stem,python,new_grad,data_scientist,yes
+asia,24,male,post_graduate,stem,python,new_grad,data_scientist,yes
+asia,24,female,post_graduate,computer_science,python,new_grad,data_scientist,yes
+asia,24,male,post_graduate,computer_science,js,student,data_scientist,yes
+asia,24,male,post_graduate,computer_science,js,student,data_scientist,yes
+asia,25,male,college,stem,js,junior,data_scientist,yes
+united_states,25,male,college,other,js,junior,data_scientist,yes
+united_states,25,male,college,other,js,junior,data_scientist,yes
+united_states,25,female,college,computer_science,python,junior,data_scientist,yes
+asia,25,female,college,computer_science,python,junior,data_scientist,yes
+united_states,25,male,college,other,python,junior,data_scientist,yes
+united_states,25,male,college,other,python,junior,data_scientist,yes
+europe,25,female,college,other,c,junior,developer,yes
+middle_east,25,male,college,other,c,junior,developer,yes
+united_states,25,male,college,computer_science,java,junior,developer,yes
+united_states,25,male,college,other,java,junior,developer,yes
+united_states,25,male,college,other,js,junior,developer,yes
+africa,25,female,college,other,js,junior,developer,yes
+united_states,25,female,college,other,js,junior,developer,yes
+united_states,25,male,college,stem,js,junior,developer,yes
+asia,25,male,college,stem,js,junior,developer,yes
+united_states,25,female,college,stem,python,junior,developer,yes
+united_states,25,female,college,computer_science,python,junior,developer,yes
+united_states,25,male,college,other,python,junior,developer,yes
+united_states,25,female,college,other,python,junior,developer,yes
+united_states,25,male,college,other,java,manager,developer,no
+middle_east,25,male,college,other,c,new_grad,developer,yes
+united_states,25,male,college,other,c,senior,developer,no
+united_states,25,male,college,other,c,senior,developer,no
+asia,25,male,college,stem,c,senior,developer,no
+asia,25,male,college,stem,c,senior,developer,no
+united_states,25,male,college,other,java,senior,developer,no
+africa,25,male,college,other,java,senior,developer,no
+united_states,25,male,college,other,java,senior,developer,no
+united_states,25,male,college,other,java,senior,developer,no
+asia,25,male,college,stem,js,senior,developer,no
+united_states,25,female,college,other,js,senior,developer,no
+united_states,25,male,college,computer_science,python,senior,developer,no
+europe,25,female,college,computer_science,js,student,data_scientist,yes
+europe,25,female,college,other,js,student,data_scientist,yes
+united_states,25,male,college,computer_science,python,student,data_scientist,yes
+europe,25,female,post_graduate,other,js,junior,data_scientist,yes
+europe,25,female,post_graduate,other,js,junior,data_scientist,yes
+europe,25,male,post_graduate,computer_science,python,junior,data_scientist,yes
+europe,25,male,post_graduate,other,python,junior,data_scientist,yes
+europe,25,female,post_graduate,computer_science,python,junior,data_scientist,yes
+united_states,25,female,post_graduate,other,java,junior,developer,yes
+united_states,25,female,post_graduate,computer_science,python,junior,developer,yes
+europe,25,male,post_graduate,computer_science,c,senior,developer,no
+united_states,25,male,post_graduate,computer_science,python,student,data_scientist,yes
+europe,26,male,college,other,c,freelancer,developer,yes
+middle_east,26,female,college,computer_science,c,junior,administrator,no
+africa,26,male,college,stem,c,junior,administrator,no
+united_states,26,female,college,stem,js,junior,data_scientist,yes
+united_states,26,male,college,other,js,junior,data_scientist,yes
+united_states,26,male,college,other,js,junior,data_scientist,yes
+united_states,26,male,college,other,c,junior,developer,yes
+united_states,26,female,college,other,js,junior,developer,yes
+united_states,26,male,college,other,js,junior,developer,yes
+asia,26,male,college,other,js,junior,developer,yes
+united_states,26,female,college,other,js,junior,developer,yes
+united_states,26,male,college,other,python,junior,developer,yes
+africa,26,male,college,computer_science,sql,junior,developer,no
+asia,26,male,college,stem,c,senior,administrator,no
+united_states,26,female,college,stem,c,senior,administrator,no
+south_america,26,male,college,computer_science,c,senior,administrator,no
+united_states,26,male,college,other,python,senior,administrator,no
+asia,26,male,college,stem,js,senior,data_scientist,yes
+united_states,26,male,college,other,c,senior,developer,no
+canada,26,male,college,other,c,senior,developer,no
+united_states,26,male,college,other,c,senior,developer,no
+europe,26,male,college,other,c,senior,developer,no
+united_states,26,female,college,other,c,senior,developer,no
+united_states,26,male,college,other,c,senior,developer,no
+united_states,26,female,college,other,js,senior,developer,no
+united_states,26,male,college,other,js,senior,developer,no
+united_states,26,male,college,other,python,senior,developer,no
+asia,26,male,college,computer_science,js,student,data_scientist,yes
+united_states,26,male,college,other,js,student,data_scientist,yes
+united_states,26,male,high_school,other,c,junior,administrator,no
+united_states,26,male,high_school,other,c,junior,developer,yes
+europe,26,male,high_school,other,java,manager,administrator,no
+united_states,26,male,high_school,stem,js,senior,developer,no
+united_states,26,male,high_school,other,python,senior,developer,no
+africa,26,male,post_graduate,other,c,freelancer,developer,yes
+united_states,26,female,post_graduate,other,js,junior,data_scientist,yes
+united_states,26,female,post_graduate,other,python,junior,data_scientist,yes
+europe,26,male,post_graduate,other,c,junior,developer,yes
+middle_east,26,male,post_graduate,computer_science,c,junior,developer,yes
+europe,26,male,post_graduate,other,java,junior,developer,yes
+united_states,26,male,post_graduate,other,js,junior,developer,yes
+australia,26,female,post_graduate,other,python,junior,developer,yes
+united_states,26,male,post_graduate,other,c,manager,developer,no
+middle_east,26,male,post_graduate,computer_science,c,senior,administrator,no
+europe,26,male,post_graduate,computer_science,c,senior,administrator,no
+europe,27,male,college,other,c,junior,administrator,no
+united_states,27,male,college,other,c,junior,administrator,no
+united_states,27,male,college,computer_science,c,junior,administrator,no
+europe,27,male,college,other,c,junior,administrator,no
+asia,27,female,college,other,c,junior,administrator,no
+united_states,27,male,college,other,c,junior,administrator,no
+united_states,27,male,college,stem,js,junior,data_scientist,yes
+united_states,27,male,college,other,js,junior,developer,yes
+europe,27,male,college,other,python,junior,developer,yes
+united_states,27,male,college,other,c,manager,developer,no
+united_states,27,male,college,computer_science,python,manager,developer,no
+africa,27,male,college,other,python,senior,data_scientist,yes
+united_states,27,male,college,stem,c,senior,developer,no
+canada,27,male,college,other,c,senior,developer,no
+europe,27,male,college,other,c,senior,developer,no
+europe,27,male,college,other,js,senior,developer,no
+middle_east,27,male,college,other,js,senior,developer,no
+south_america,27,male,college,computer_science,python,senior,developer,no
+asia,27,female,college,other,python,senior,developer,no
+europe,27,male,college,other,js,student,data_scientist,yes
+united_states,27,male,high_school,other,c,freelancer,developer,yes
+middle_east,27,male,high_school,other,js,junior,developer,yes
+united_states,27,male,high_school,other,python,junior,developer,yes
+canada,27,male,high_school,other,js,senior,data_scientist,yes
+united_states,27,male,high_school,other,c,senior,developer,no
+europe,27,male,post_graduate,other,python,junior,data_scientist,yes
+europe,27,male,post_graduate,computer_science,c,senior,developer,no
+europe,27,male,post_graduate,stem,java,senior,developer,no
+united_states,27,male,post_graduate,computer_science,python,senior,developer,no
+europe,27,male,post_graduate,stem,sql,senior,developer,no
+united_states,27,male,post_graduate,other,js,student,data_scientist,yes
+asia,28,male,college,other,c,freelancer,administrator,no
+united_states,28,female,college,other,c,junior,administrator,no
+middle_east,28,male,college,computer_science,python,junior,data_scientist,yes
+united_states,28,male,college,other,python,junior,data_scientist,yes
+united_states,28,female,college,stem,python,junior,data_scientist,yes
+asia,28,male,college,stem,python,junior,data_scientist,yes
+united_states,28,male,college,other,python,junior,data_scientist,yes
+united_states,28,female,college,other,js,junior,developer,yes
+united_states,28,female,college,other,js,junior,developer,yes
+united_states,28,female,college,other,js,junior,developer,yes
+united_states,28,male,college,other,js,junior,developer,yes
+united_states,28,female,college,other,js,junior,developer,yes
+united_states,28,male,college,other,python,junior,developer,yes
+middle_east,28,male,college,other,sql,junior,developer,no
+united_states,28,male,college,other,python,manager,data_scientist,yes
+asia,28,male,college,computer_science,python,manager,developer,no
+africa,28,male,college,other,python,manager,developer,no
+united_states,28,male,college,computer_science,python,new_grad,data_scientist,yes
+australia,28,female,college,computer_science,python,new_grad,developer,yes
+united_states,28,male,college,other,c,senior,administrator,no
+asia,28,male,college,stem,python,senior,data_scientist,yes
+canada,28,female,college,computer_science,c,senior,developer,no
+europe,28,male,college,other,c,senior,developer,no
+united_states,28,female,college,other,c,senior,developer,no
+asia,28,male,college,stem,c,senior,developer,no
+united_states,28,male,college,other,c,senior,developer,no
+asia,28,male,college,other,c,senior,developer,no
+united_states,28,male,college,other,c,senior,developer,no
+united_states,28,male,college,other,c,senior,developer,no
+middle_east,28,male,college,other,js,senior,developer,no
+asia,28,male,college,other,js,senior,developer,no
+united_states,28,male,college,other,js,senior,developer,no
+europe,28,male,college,other,python,senior,developer,no
+europe,28,male,high_school,other,sql,freelancer,developer,no
+canada,28,male,high_school,other,js,junior,developer,yes
+united_states,28,male,high_school,other,c,senior,administrator,no
+europe,28,male,high_school,other,c,senior,developer,no
+middle_east,28,male,high_school,other,c,senior,developer,no
+middle_east,28,male,high_school,computer_science,js,senior,developer,no
+asia,28,male,post_graduate,other,java,junior,administrator,no
+united_states,28,female,post_graduate,stem,js,junior,data_scientist,yes
+asia,28,male,post_graduate,other,java,senior,administrator,no
+europe,28,female,post_graduate,stem,js,senior,developer,no
+united_states,28,male,post_graduate,other,python,senior,developer,no
+asia,28,male,post_graduate,computer_science,python,senior,developer,no
+middle_east,28,male,post_graduate,stem,python,student,data_scientist,yes
+asia,29,male,college,computer_science,python,freelancer,data_scientist,yes
+asia,29,male,college,stem,python,freelancer,data_scientist,yes
+united_states,29,male,college,other,js,junior,data_scientist,yes
+united_states,29,female,college,stem,python,junior,data_scientist,yes
+south_america,29,non-binary,college,other,c,junior,developer,yes
+united_states,29,female,college,stem,c,junior,developer,yes
+united_states,29,male,college,other,c,junior,developer,yes
+united_states,29,male,college,stem,c,junior,developer,yes
+africa,29,male,college,other,c,junior,developer,yes
+asia,29,male,college,stem,c,junior,developer,yes
+united_states,29,male,college,other,c,junior,developer,yes
+united_states,29,male,college,other,c,junior,developer,yes
+united_states,29,male,college,other,c,junior,developer,yes
+asia,29,male,college,computer_science,c,junior,developer,yes
+asia,29,female,college,computer_science,c,junior,developer,yes
+asia,29,male,college,stem,c,junior,developer,yes
+united_states,29,male,college,other,js,junior,developer,yes
+europe,29,male,college,computer_science,js,junior,developer,yes
+asia,29,male,college,stem,python,manager,data_scientist,yes
+united_states,29,male,college,other,c,senior,administrator,no
+united_states,29,male,college,computer_science,c,senior,administrator,no
+united_states,29,female,college,other,c,senior,administrator,no
+canada,29,female,college,other,js,senior,data_scientist,yes
+united_states,29,female,college,other,js,senior,data_scientist,yes
+asia,29,male,college,other,c,senior,developer,no
+asia,29,male,college,computer_science,c,senior,developer,no
+united_states,29,male,college,other,c,senior,developer,no
+africa,29,male,college,other,c,senior,developer,no
+europe,29,male,college,other,js,senior,developer,no
+asia,29,male,college,stem,python,senior,developer,no
+united_states,29,male,high_school,computer_science,c,senior,administrator,no
+united_states,29,male,high_school,other,c,senior,administrator,no
+asia,29,male,high_school,stem,python,student,data_scientist,yes
+united_states,29,male,post_graduate,other,c,freelancer,developer,yes
+europe,29,female,post_graduate,other,c,junior,developer,yes
+united_states,29,female,post_graduate,other,c,junior,developer,yes
+united_states,29,male,post_graduate,other,c,junior,developer,yes
+europe,29,male,post_graduate,other,js,junior,developer,yes
+europe,29,female,post_graduate,other,js,junior,developer,yes
+middle_east,29,male,post_graduate,other,python,manager,data_scientist,yes
+middle_east,29,male,post_graduate,other,c,manager,developer,no
+united_states,29,male,post_graduate,other,c,manager,developer,no
+united_states,29,male,post_graduate,other,c,senior,administrator,no
+united_states,29,male,post_graduate,other,c,senior,administrator,no
+united_states,29,male,post_graduate,other,python,senior,data_scientist,yes
+asia,29,male,post_graduate,computer_science,python,senior,data_scientist,yes
+europe,29,male,post_graduate,other,js,senior,developer,no
+united_states,29,non-binary,post_graduate,stem,python,senior,developer,no
+united_states,29,female,post_graduate,other,python,student,data_scientist,yes
+europe,30,male,college,other,c,freelancer,developer,yes
+asia,30,male,college,stem,sql,freelancer,developer,no
+united_states,30,male,college,computer_science,js,junior,data_scientist,yes
+europe,30,male,college,other,js,junior,data_scientist,yes
+united_states,30,female,college,other,python,junior,data_scientist,yes
+asia,30,female,college,stem,python,junior,data_scientist,yes
+united_states,30,male,college,other,python,junior,data_scientist,yes
+united_states,30,female,college,other,python,junior,data_scientist,yes
+united_states,30,female,college,stem,c,junior,developer,yes
+united_states,30,female,college,other,c,junior,developer,yes
+united_states,30,male,college,other,c,junior,developer,yes
+united_states,30,male,college,other,c,junior,developer,yes
+asia,30,male,college,computer_science,c,junior,developer,yes
+europe,30,male,college,stem,js,junior,developer,yes
+south_america,30,male,college,other,js,junior,developer,yes
+europe,30,male,college,computer_science,c,manager,administrator,no
+united_states,30,male,college,other,js,manager,developer,no
+united_states,30,male,college,other,c,senior,administrator,no
+canada,30,male,college,computer_science,c,senior,administrator,no
+united_states,30,female,college,other,js,senior,data_scientist,yes
+australia,30,male,college,other,js,senior,data_scientist,yes
+united_states,30,non-binary,college,other,js,senior,data_scientist,yes
+south_america,30,male,college,computer_science,js,senior,data_scientist,yes
+asia,30,male,college,stem,python,senior,data_scientist,yes
+asia,30,male,college,stem,python,senior,data_scientist,yes
+united_states,30,male,college,computer_science,c,senior,developer,no
+africa,30,male,college,computer_science,c,senior,developer,no
+australia,30,female,college,other,c,senior,developer,no
+asia,30,male,college,other,c,senior,developer,no
+united_states,30,male,college,stem,c,senior,developer,no
+united_states,30,male,college,other,c,senior,developer,no
+canada,30,male,high_school,other,c,senior,administrator,no
+europe,30,male,high_school,stem,c,senior,developer,no
+united_states,30,male,high_school,other,c,senior,developer,no
+south_america,30,male,high_school,other,js,senior,developer,no
+asia,30,male,post_graduate,other,sql,freelancer,developer,no
+europe,30,male,post_graduate,other,js,freelancer,developer,yes
+united_states,30,male,post_graduate,stem,python,junior,data_scientist,yes
+united_states,30,male,post_graduate,stem,js,junior,developer,yes
+asia,30,female,post_graduate,computer_science,js,junior,developer,yes
+asia,30,male,post_graduate,stem,python,manager,data_scientist,yes
+united_states,30,female,post_graduate,computer_science,python,new_grad,data_scientist,yes
+europe,30,male,post_graduate,computer_science,c,senior,administrator,no
+asia,30,male,post_graduate,computer_science,c,senior,developer,no
+europe,30,male,post_graduate,computer_science,python,student,data_scientist,yes
+africa,31,male,college,computer_science,js,junior,data_scientist,yes
+united_states,31,female,college,other,js,junior,data_scientist,yes
+united_states,31,male,college,other,c,junior,developer,yes
+united_states,31,male,college,other,c,junior,developer,yes
+united_states,31,male,college,other,c,junior,developer,yes
+united_states,31,female,college,other,js,junior,developer,yes
+united_states,31,male,college,other,js,junior,developer,yes
+united_states,31,female,college,other,python,junior,developer,yes
+united_states,31,male,college,other,python,junior,developer,yes
+united_states,31,male,college,other,python,manager,data_scientist,yes
+asia,31,male,college,stem,js,senior,data_scientist,yes
+asia,31,male,college,other,js,senior,data_scientist,yes
+asia,31,male,college,computer_science,python,senior,data_scientist,yes
+asia,31,male,college,stem,c,senior,developer,no
+asia,31,male,college,stem,c,senior,developer,no
+europe,31,male,college,other,js,senior,developer,no
+europe,31,female,college,other,js,senior,developer,no
+europe,31,male,college,other,js,senior,developer,no
+asia,31,male,college,other,python,student,data_scientist,yes
+asia,31,male,high_school,stem,java,senior,developer,no
+united_states,31,male,high_school,other,python,student,data_scientist,yes
+europe,31,male,post_graduate,other,python,freelancer,data_scientist,yes
+europe,31,male,post_graduate,other,js,junior,data_scientist,yes
+united_states,31,female,post_graduate,other,c,junior,developer,yes
+canada,31,male,post_graduate,computer_science,c,junior,developer,yes
+asia,31,male,post_graduate,computer_science,java,junior,developer,yes
+europe,31,female,post_graduate,other,python,senior,data_scientist,yes
+united_states,31,male,post_graduate,other,python,senior,data_scientist,yes
+united_states,31,male,post_graduate,other,python,senior,data_scientist,yes
+south_america,31,male,post_graduate,other,java,senior,developer,no
+united_states,31,male,post_graduate,computer_science,js,senior,developer,no
+asia,32,male,college,other,python,freelancer,data_scientist,yes
+asia,32,male,college,stem,c,freelancer,developer,yes
+europe,32,male,college,other,c,freelancer,developer,yes
+united_states,32,male,college,other,c,freelancer,developer,yes
+asia,32,female,college,computer_science,js,junior,data_scientist,yes
+europe,32,male,college,stem,python,junior,data_scientist,yes
+united_states,32,female,college,other,python,junior,data_scientist,yes
+united_states,32,female,college,other,python,junior,data_scientist,yes
+united_states,32,male,college,other,python,junior,data_scientist,yes
+canada,32,male,college,other,c,junior,developer,yes
+united_states,32,male,college,other,c,junior,developer,yes
+united_states,32,male,college,other,c,junior,developer,yes
+europe,32,female,college,other,c,junior,developer,yes
+africa,32,male,college,other,c,junior,developer,yes
+united_states,32,male,college,other,c,junior,developer,yes
+united_states,32,male,college,other,c,junior,developer,yes
+europe,32,female,college,other,js,junior,developer,no
+united_states,32,male,college,other,c,senior,administrator,no
+united_states,32,male,college,other,c,senior,administrator,no
+asia,32,male,college,computer_science,js,senior,data_scientist,yes
+asia,32,male,college,computer_science,js,senior,data_scientist,yes
+united_states,32,male,college,computer_science,python,senior,data_scientist,yes
+united_states,32,male,college,stem,python,senior,data_scientist,yes
+europe,32,male,college,other,c,senior,developer,yes
+asia,32,female,college,other,c,senior,developer,yes
+africa,32,male,college,stem,c,senior,developer,yes
+united_states,32,male,college,other,c,senior,developer,yes
+south_america,32,male,college,computer_science,java,senior,developer,yes
+asia,32,female,college,computer_science,java,senior,developer,yes
+united_states,32,male,college,other,js,senior,developer,yes
+united_states,32,male,college,other,js,senior,developer,yes
+united_states,32,male,college,other,js,senior,developer,yes
+europe,32,female,college,other,js,student,data_scientist,yes
+united_states,32,male,high_school,stem,js,manager,developer,no
+united_states,32,female,high_school,other,c,senior,administrator,no
+europe,32,male,high_school,other,js,senior,data_scientist,yes
+europe,32,male,high_school,other,js,senior,developer,yes
+europe,32,male,high_school,computer_science,js,student,data_scientist,yes
+europe,32,female,high_school,other,python,student,data_scientist,yes
+europe,32,male,post_graduate,other,js,junior,data_scientist,yes
+united_states,32,male,post_graduate,other,python,junior,data_scientist,yes
+europe,32,male,post_graduate,other,python,junior,data_scientist,yes
+europe,32,female,post_graduate,other,python,junior,data_scientist,yes
+europe,32,female,post_graduate,other,js,junior,developer,no
+asia,32,female,post_graduate,other,c,senior,administrator,no
+europe,32,female,post_graduate,other,c,senior,administrator,no
+middle_east,32,male,post_graduate,stem,python,senior,data_scientist,yes
+united_states,32,male,post_graduate,stem,python,senior,data_scientist,yes
+canada,32,male,post_graduate,other,c,senior,developer,yes
+asia,32,male,post_graduate,stem,java,senior,developer,yes
+europe,32,male,post_graduate,computer_science,js,senior,developer,yes
+europe,32,male,post_graduate,stem,python,student,data_scientist,yes
+united_states,32,male,post_graduate,other,python,student,data_scientist,yes
+europe,32,female,post_graduate,other,python,student,data_scientist,yes
+europe,33,male,college,other,python,junior,data_scientist,yes
+united_states,33,male,college,other,c,junior,developer,no
+europe,33,male,college,other,c,junior,developer,no
+united_states,33,female,college,other,c,junior,developer,no
+united_states,33,male,college,other,c,junior,developer,no
+united_states,33,male,college,other,js,junior,developer,no
+united_states,33,female,college,other,js,junior,developer,no
+united_states,33,male,college,other,python,junior,developer,no
+africa,33,female,college,other,c,new_grad,developer,no
+south_america,33,male,college,computer_science,c,senior,administrator,no
+middle_east,33,male,college,stem,java,senior,administrator,no
+asia,33,male,college,stem,java,senior,administrator,no
+asia,33,male,college,stem,java,senior,administrator,no
+asia,33,male,college,stem,python,senior,data_scientist,yes
+united_states,33,male,college,other,python,senior,data_scientist,yes
+united_states,33,female,college,other,python,senior,data_scientist,yes
+australia,33,male,college,other,python,senior,data_scientist,yes
+europe,33,male,college,computer_science,c,senior,developer,yes
+united_states,33,male,college,computer_science,c,senior,developer,yes
+united_states,33,male,college,other,c,senior,developer,yes
+united_states,33,male,college,other,c,senior,developer,yes
+united_states,33,male,college,other,c,senior,developer,yes
+south_america,33,male,college,computer_science,java,senior,developer,yes
+europe,33,male,college,other,java,senior,developer,yes
+south_america,33,female,college,computer_science,java,senior,developer,yes
+united_states,33,male,high_school,stem,python,junior,data_scientist,yes
+asia,33,male,high_school,other,python,senior,data_scientist,yes
+united_states,33,male,high_school,other,c,senior,developer,yes
+united_states,33,male,high_school,no_degree,python,senior,developer,yes
+europe,33,male,post_graduate,stem,c,freelancer,developer,yes
+asia,33,male,post_graduate,stem,js,junior,data_scientist,yes
+europe,33,male,post_graduate,other,js,junior,data_scientist,yes
+south_america,33,male,post_graduate,computer_science,java,junior,developer,no
+europe,33,female,post_graduate,other,js,junior,developer,no
+europe,33,male,post_graduate,other,js,junior,developer,no
+europe,33,male,post_graduate,other,c,senior,administrator,no
+africa,33,male,post_graduate,computer_science,c,senior,administrator,no
+europe,33,male,post_graduate,stem,c,senior,developer,yes
+asia,33,male,post_graduate,other,java,senior,developer,yes
+europe,33,male,post_graduate,other,java,senior,developer,yes
+united_states,33,male,post_graduate,other,js,senior,developer,yes
+asia,33,male,post_graduate,other,js,senior,developer,yes
+europe,33,male,post_graduate,other,js,student,data_scientist,yes
+united_states,34,male,college,other,python,junior,data_scientist,yes
+united_states,34,male,college,other,c,junior,developer,no
+united_states,34,female,college,other,c,junior,developer,no
+united_states,34,male,college,other,c,junior,developer,no
+asia,34,male,college,computer_science,c,junior,developer,no
+australia,34,female,college,other,c,junior,developer,no
+europe,34,female,college,other,java,junior,developer,no
+united_states,34,female,college,other,js,junior,developer,no
+europe,34,male,college,other,js,junior,developer,no
+united_states,34,male,college,other,js,junior,developer,no
+united_states,34,female,college,other,python,junior,developer,no
+united_states,34,male,college,other,c,manager,developer,no
+united_states,34,male,college,stem,c,senior,administrator,no
+asia,34,male,college,computer_science,c,senior,administrator,no
+asia,34,male,college,stem,java,senior,administrator,no
+europe,34,male,college,other,js,senior,data_scientist,yes
+united_states,34,male,college,other,js,senior,data_scientist,yes
+united_states,34,male,college,other,c,senior,developer,yes
+united_states,34,female,college,stem,c,senior,developer,yes
+united_states,34,male,college,other,c,senior,developer,yes
+asia,34,male,college,stem,java,senior,developer,yes
+europe,34,male,college,other,js,senior,developer,yes
+middle_east,34,male,college,stem,sql,senior,developer,no
+united_states,34,male,college,other,js,student,data_scientist,yes
+europe,34,female,college,other,python,student,data_scientist,yes
+united_states,34,male,high_school,other,python,junior,data_scientist,yes
+asia,34,male,high_school,other,js,junior,developer,no
+asia,34,male,high_school,other,python,new_grad,data_scientist,yes
+united_states,34,female,high_school,other,c,senior,developer,yes
+south_america,34,male,high_school,other,java,senior,developer,yes
+united_states,34,male,high_school,other,js,senior,developer,yes
+south_america,34,male,high_school,computer_science,js,senior,developer,yes
+europe,34,male,post_graduate,stem,c,junior,developer,no
+europe,34,male,post_graduate,other,java,junior,developer,no
+asia,34,male,post_graduate,stem,js,junior,developer,no
+united_states,34,female,post_graduate,stem,python,junior,developer,no
+united_states,34,male,post_graduate,computer_science,js,manager,data_scientist,yes
+europe,34,male,post_graduate,stem,c,senior,administrator,no
+united_states,34,male,post_graduate,other,c,senior,administrator,no
+asia,34,female,post_graduate,other,js,senior,data_scientist,yes
+united_states,34,female,post_graduate,other,python,senior,data_scientist,yes
+united_states,34,male,post_graduate,other,c,senior,developer,yes
+europe,34,male,post_graduate,other,js,senior,developer,yes
+united_states,35,male,college,other,c,manager,administrator,yes
+united_states,35,female,college,other,js,manager,data_scientist,yes
+canada,35,female,college,other,js,manager,data_scientist,yes
+asia,35,male,college,other,js,manager,developer,no
+united_states,35,male,college,other,python,senior,data_scientist,yes
+europe,35,male,high_school,stem,c,junior,developer,no
+asia,35,male,high_school,other,js,manager,data_scientist,yes
+united_states,35,male,high_school,other,c,manager,developer,no
+europe,35,male,post_graduate,other,c,senior,developer,yes
+europe,35,male,post_graduate,stem,c,senior,developer,yes
+europe,36,male,college,other,c,senior,administrator,yes
+europe,36,male,college,computer_science,python,senior,data_scientist,yes
+middle_east,36,male,college,stem,c,senior,developer,yes
+united_states,36,male,college,other,c,senior,developer,yes
+united_states,36,female,college,other,js,senior,developer,yes
+united_states,36,male,high_school,computer_science,c,senior,administrator,no
+united_states,36,female,post_graduate,other,js,junior,developer,no
+europe,36,male,post_graduate,stem,c,manager,administrator,yes
+europe,36,male,post_graduate,computer_science,java,manager,administrator,yes
+europe,36,male,post_graduate,stem,python,senior,data_scientist,yes
+united_states,36,male,post_graduate,stem,python,senior,data_scientist,yes
+united_states,36,male,post_graduate,other,c,senior,developer,yes
+united_states,37,male,college,other,js,junior,data_scientist,yes
+united_states,37,male,college,other,js,junior,developer,no
+united_states,37,male,college,other,java,manager,administrator,yes
+united_states,37,male,college,other,java,manager,developer,no
+south_america,37,male,college,other,js,manager,developer,no
+united_states,37,male,college,computer_science,python,new_grad,data_scientist,yes
+canada,37,male,college,other,c,senior,developer,yes
+united_states,37,male,college,other,java,senior,developer,yes
+united_states,37,male,college,other,java,senior,developer,yes
+united_states,37,male,college,other,js,senior,developer,yes
+asia,37,male,college,stem,js,senior,developer,yes
+united_states,37,female,high_school,other,java,manager,administrator,no
+europe,37,male,high_school,other,python,senior,data_scientist,yes
+united_states,37,female,post_graduate,other,java,senior,administrator,yes
+united_states,37,male,post_graduate,computer_science,java,senior,administrator,yes
+united_states,37,male,post_graduate,other,c,senior,developer,yes
+europe,37,male,post_graduate,other,c,senior,developer,yes
+europe,38,male,college,other,js,junior,developer,no
+europe,38,female,college,stem,python,junior,developer,no
+united_states,38,female,college,other,python,manager,data_scientist,yes
+europe,38,male,college,stem,js,senior,data_scientist,yes
+united_states,38,male,college,other,java,senior,developer,yes
+united_states,38,male,high_school,other,sql,manager,developer,no
+united_states,38,male,high_school,no_degree,python,student,data_scientist,yes
+south_america,38,male,post_graduate,other,java,freelancer,developer,yes
+united_states,38,male,post_graduate,other,java,junior,developer,no
+united_states,38,male,post_graduate,other,python,junior,developer,no
+south_america,38,male,post_graduate,other,c,senior,developer,yes
+asia,39,male,college,other,c,senior,administrator,yes
+europe,39,male,college,other,c,senior,developer,yes
+united_states,39,male,college,other,java,senior,developer,yes
+united_states,39,male,college,other,js,senior,developer,yes
+middle_east,39,male,college,other,js,student,data_scientist,yes
+united_states,39,male,high_school,computer_science,java,senior,developer,yes
+united_states,39,male,high_school,other,js,senior,developer,yes
+united_states,39,male,post_graduate,other,python,junior,data_scientist,yes
+africa,39,male,post_graduate,stem,c,manager,administrator,yes
+asia,39,male,post_graduate,other,java,manager,developer,no
+united_states,39,male,post_graduate,other,java,senior,administrator,yes
+europe,39,male,post_graduate,stem,js,senior,developer,yes
+united_states,39,female,post_graduate,computer_science,python,student,data_scientist,yes
+africa,40,male,college,other,python,freelancer,data_scientist,yes
+united_states,40,male,college,stem,java,manager,developer,no
+canada,40,male,college,computer_science,c,senior,administrator,yes
+united_states,40,female,college,other,java,senior,administrator,yes
+europe,40,male,college,other,java,senior,administrator,yes
+europe,40,female,college,other,js,senior,developer,yes
+united_states,40,male,college,other,sql,senior,developer,no
+united_states,40,non-binary,high_school,other,java,senior,administrator,no
+united_states,40,male,high_school,other,java,senior,administrator,no
+canada,40,male,high_school,other,python,senior,administrator,no
+africa,40,male,high_school,other,python,senior,data_scientist,yes
+united_states,40,male,post_graduate,other,java,senior,administrator,yes
+canada,40,male,post_graduate,other,java,senior,developer,yes
+canada,40,male,post_graduate,other,python,student,data_scientist,yes
+australia,41,male,college,other,c,freelancer,developer,yes
+united_states,41,female,college,other,sql,freelancer,developer,no
+united_states,41,male,college,other,java,junior,developer,no
+europe,41,female,college,other,js,junior,developer,no
+united_states,41,male,college,other,js,manager,data_scientist,yes
+united_states,41,male,college,other,java,senior,administrator,yes
+united_states,41,male,college,other,c,senior,developer,yes
+australia,41,male,college,computer_science,java,senior,developer,yes
+middle_east,41,male,college,other,sql,senior,developer,no
+united_states,41,male,high_school,other,js,senior,developer,yes
+europe,41,male,post_graduate,other,java,manager,developer,no
+europe,41,male,post_graduate,other,c,senior,administrator,yes
+united_states,41,male,post_graduate,other,java,senior,administrator,yes
+united_states,41,male,post_graduate,other,java,senior,administrator,yes
+europe,41,male,post_graduate,stem,js,senior,developer,yes
+middle_east,41,male,post_graduate,stem,js,student,data_scientist,yes
+europe,42,male,college,other,js,junior,developer,no
+united_states,42,female,college,other,sql,junior,developer,no
+united_states,42,female,college,other,c,senior,administrator,yes
+united_states,42,male,high_school,other,java,junior,developer,no
+united_states,42,male,high_school,other,java,junior,developer,no
+europe,42,male,high_school,no_degree,sql,junior,developer,no
+united_states,42,male,high_school,other,sql,manager,developer,no
+united_states,42,male,post_graduate,other,java,junior,developer,no
+united_states,42,male,post_graduate,other,c,manager,administrator,yes
+united_states,42,male,post_graduate,stem,c,senior,administrator,yes
+europe,42,male,post_graduate,other,java,senior,administrator,yes
+united_states,42,female,post_graduate,other,js,senior,developer,yes
+asia,42,female,post_graduate,computer_science,python,senior,developer,yes
+united_states,42,male,post_graduate,other,js,student,data_scientist,yes
+africa,43,male,college,other,sql,freelancer,developer,no
+asia,43,male,college,other,python,manager,data_scientist,yes
+united_states,43,male,college,other,c,manager,developer,no
+united_states,43,male,college,other,js,manager,developer,no
+united_states,43,male,college,computer_science,c,senior,administrator,yes
+united_states,43,male,college,other,c,senior,administrator,yes
+united_states,43,male,college,stem,js,senior,developer,yes
+canada,43,male,college,computer_science,js,senior,developer,yes
+africa,43,female,high_school,other,sql,freelancer,developer,no
+europe,43,male,high_school,other,python,senior,data_scientist,yes
+canada,43,female,post_graduate,other,c,manager,administrator,yes
+united_states,43,female,post_graduate,other,js,student,data_scientist,yes
+europe,44,male,college,other,js,junior,developer,no
+asia,44,female,college,stem,java,senior,developer,yes
+united_states,44,female,college,stem,js,senior,developer,yes
+united_states,44,male,college,other,sql,senior,developer,no
+united_states,44,male,high_school,computer_science,sql,senior,developer,no
+united_states,44,male,post_graduate,other,js,junior,developer,no
+australia,44,male,post_graduate,other,c,senior,developer,yes
+europe,44,female,post_graduate,other,js,senior,developer,yes
+asia,44,male,post_graduate,other,js,student,data_scientist,yes
+canada,45,male,college,computer_science,java,senior,developer,yes
+europe,46,male,college,computer_science,c,freelancer,administrator,yes
+canada,46,male,college,other,java,senior,developer,yes
+europe,46,male,post_graduate,stem,c,manager,administrator,yes
+united_states,47,male,college,other,sql,senior,developer,no
+united_states,47,male,post_graduate,stem,python,manager,data_scientist,yes
+united_states,48,female,college,computer_science,python,junior,data_scientist,yes
+south_america,48,male,post_graduate,other,sql,freelancer,developer,no
+middle_east,48,male,post_graduate,computer_science,c,senior,administrator,yes
+united_states,50,male,college,other,c,manager,administrator,yes
+europe,50,male,college,other,java,manager,developer,no
+europe,50,male,high_school,other,js,senior,developer,yes
+australia,50,female,post_graduate,computer_science,c,senior,administrator,yes
+united_states,51,male,college,stem,sql,manager,developer,no
+united_states,51,male,college,other,c,senior,administrator,yes
+middle_east,51,male,high_school,stem,java,manager,developer,no
+united_states,51,male,post_graduate,other,c,senior,developer,yes
+south_america,52,male,college,other,c,freelancer,administrator,yes
+united_states,52,female,college,other,js,manager,data_scientist,yes
+europe,52,male,college,stem,js,senior,developer,yes
+canada,52,male,college,other,sql,senior,developer,no
+united_states,52,male,high_school,other,python,senior,data_scientist,yes
+south_america,52,male,post_graduate,computer_science,sql,senior,developer,no
+united_states,53,male,college,other,js,manager,data_scientist,yes
+united_states,53,male,college,computer_science,python,senior,data_scientist,yes
+australia,53,male,high_school,other,c,manager,administrator,no
+europe,53,male,high_school,other,c,senior,administrator,no
+united_states,53,male,post_graduate,computer_science,js,student,data_scientist,yes
+united_states,54,male,high_school,other,js,senior,developer,yes
+united_states,57,male,college,other,c,senior,administrator,yes
+united_states,61,male,college,computer_science,sql,senior,developer,no
+europe,61,male,post_graduate,other,sql,senior,developer,no
+united_states,64,male,college,other,c,manager,administrator,yes

@@ -35,8 +35,8 @@ def train_linear_regression():
     data = np.genfromtxt('Assignment 4 - Question 1 data.csv', delimiter=',')
 
     # Add a column of ones for gradient descent
-    X = np.transpose(np.array([np.ones([len(data) - 1, 1])[:,0], data[1:,0]]))
-    y = data[1:,1].reshape(len(data) - 1, 1)
+    X = np.transpose(np.array([np.ones([len(data) - 1, 1])[:, 0], data[1:, 0]]))
+    y = data[1:, 1].reshape(len(data) - 1, 1)
     theta = np.array(([0], [0])).reshape(2, 1)
 
     costs = []
