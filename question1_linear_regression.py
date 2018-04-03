@@ -50,7 +50,7 @@ def train_linear_regression():
 
     # # Plotting the learning curve
     # plt.plot(costs)
-    # plt.ylabel("Cost")
+    # plt.ylabel("J(theta)")
     # plt.xlabel("Iteration")
     # plt.show()
 
@@ -66,7 +66,6 @@ def train_linear_regression():
     print("Average sum of squared errors: ", costs[-1])
 
     plt.show()
-
 
 
 train_linear_regression()
