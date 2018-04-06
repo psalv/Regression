@@ -5,10 +5,14 @@ from matplotlib import pyplot as plt
 
 def cost_function(X, y, theta):
     hx = sigmoid(theta, X)
+
+    # Evaluating a vectorized version of the logarithmic logistic regression cost function
     return np.sum(np.multiply(-1 * y, np.log10(hx)) - np.multiply(1 - y, np.log10(1 - hx))) / len(y)
 
 
 def sigmoid(theta, X):
+
+    # Evaluating a vectorized version of the sigmoid functino
     return (1 + np.exp(-1 * np.matmul(X, theta))) ** -1
 
 
@@ -69,12 +73,14 @@ def train_logistic_regression():
 def predict_logistic_regression(theta, threshold=0.85):
     X, y = load_data(np.genfromtxt('breast-cancer-wisconsin.test.data.csv', delimiter=','))
 
+    # Making predictions and using the threshold to determine a prediction of 0 or 1
     y_pred = np.zeros([np.size(y), 1])
     sigmoids = sigmoid(theta, X)
     for i in range(np.size(sigmoids)):
         if sigmoids[i] > threshold:
             y_pred[i] = 1
 
+    # Computing the frequency of values in the confusion matrix
     true_positive = 0
     true_negative = 0
     false_positive = 0
@@ -92,16 +98,21 @@ def predict_logistic_regression(theta, threshold=0.85):
 
     print("Confusion Matrix (TP/FP/FN/TN):", true_positive, false_positive, false_negative, true_negative)
 
+    # Computing precision and recall from the confusion matrix variables
     precision = true_positive / (true_positive + false_positive)
     recall = true_positive / (true_positive + false_negative)
 
     print("Precision: ", precision)
     print("Recall: ", recall)
 
+    # Computing F1 score from precision and recall
     f1_score = 2 * (precision * recall / (precision + recall))
 
     print("F1 Score: ", f1_score)
 
 
+# Train the variables theta
 calculated_theta = train_logistic_regression()
+
+# Predict using the trained variables
 predict_logistic_regression(calculated_theta)

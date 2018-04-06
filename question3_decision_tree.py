@@ -2,6 +2,11 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
+"""
+
+SLIDE # 12 IN POWERPOINT
+
+"""
 
 def get_data():
     data = []
@@ -14,3 +19,4 @@ def get_data():
             age = int(age)
             data.append([origin, age, gender, education, degree, language, job_level, current_role, hired])
     return data[:5]
+

@@ -11,6 +11,8 @@ def cost_function(X, y, theta):
 
 
 def sum_of_squared_errors(X, y, theta):
+
+    # Computing the sum of the squared errors between the predicted values and the labelled y data
     return np.sum(((np.matmul(X, theta) - y) ** 2))
 
 
@@ -62,8 +64,9 @@ def train_linear_regression():
     plt.scatter(data[1:, 0], data[1:, 1])
     plt.plot(x_range, x_pred)
 
-    print("Sum of squared errors: ", sum_of_squared_errors(X, y, theta))
-    print("Average sum of squared errors: ", costs[-1])
+    SE = sum_of_squared_errors(X, y, theta)
+    print("Sum of squared errors: ", SE)
+    print("Average sum of squared errors: ", SE / np.size(X, 0))
 
     plt.show()
 
