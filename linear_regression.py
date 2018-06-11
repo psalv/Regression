@@ -40,7 +40,7 @@ def gradient_descent(X, y, theta, alpha, threshold, costs):
 def train_linear_regression():
 
     # Getting the data columns
-    data = np.genfromtxt('Assignment 4 - Question 1 data.csv', delimiter=',')
+    data = np.genfromtxt('linear_data.csv', delimiter=',')
 
     # Add a column of ones for gradient descent
     X = np.transpose(np.array([np.ones([len(data) - 1, 1])[:, 0], data[1:, 0]]))

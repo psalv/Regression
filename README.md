@@ -1,8 +1,3 @@
-My assignment uses two dependencies to ease matrix multiplication and plotting.
+# Regression
 
-If you do not have these dependencies already please add them:
-1) numpy:
-pip install numpy
-
-2) matplotlib:
-pip install matplotlib
+A python implementation of linear regression, logistic regression, and a decision tree model.
